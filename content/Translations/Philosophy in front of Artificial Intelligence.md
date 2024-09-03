@@ -1,4 +1,4 @@
-#Translation
+
 ### La philosophie devant l'Intelligence artificielle, auth. [[François Laruelle]], Le Cahier (Collège international de philosophie), No. 3 (mars 1987), PUF, trans. [[Sylvia Nambiar]]
 
 -----
