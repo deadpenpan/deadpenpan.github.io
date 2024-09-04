@@ -6,7 +6,10 @@ title: The Body (of) the Stranger
 ---
 
 >[!info]+
->### « Le corps (de) l'Etranger comme corps subjectif en-dernière-ins­tance et organon de l'Ego », [[Théorie des Etrangers]], auth. [[François Laruelle]], Paris: Kimé, 1995, pp. 155-8, trans. [[Sylvia Nambiar]]
+>« Le corps (de) l'Etranger comme corps subjectif en-dernière-ins­tance et organon de l'Ego »
+> [[Théorie des Etrangers]], Paris: Kimé, 1995, pp. 155-8
+> 
+>auth. [[François Laruelle]], trans. [[Sylvia Nambiar]]
 
 >[!note]+ Sylvia's Note
 >Several sections of _[[Théorie des Etrangers]]_ have been translated by [[Jeremy R. Smith]] on his blog (https://endemictheory.wordpress.com)

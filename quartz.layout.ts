@@ -13,8 +13,8 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs({
-		spacerSymbol: "/",
-		rootName: "one-in.one",
+		spacerSymbol: ">",
+		rootName: "one_in.one",
 		resolveFrontmatterTitle: true,
 		hideOnRoot: true,
   		showCurrentPage: true,
@@ -31,9 +31,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes({title: "Recently Updated Pages", limit: 3}),
   ],
 }
 
@@ -53,6 +53,7 @@ export const defaultListPageLayout: PageLayout = {
 	})),
   ],
   right: [
-	Component.RecentNotes()
+	Component.Graph(),
+	Component.RecentNotes({title: "Recently Updated Pages"}),
 	],
 }

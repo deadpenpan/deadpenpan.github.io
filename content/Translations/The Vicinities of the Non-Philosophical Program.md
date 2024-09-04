@@ -5,7 +5,10 @@ aliases:
 ---
 
 >[!info]+ 
->### « Les Voisinages du programme », auth. [[François Laruelle]] (En tant qu’Un. La « non-philosophie » expliquée aux philosophes, Paris: Aubier, 1991, p. 173-6), trans. [[Sylvia Nambiar]] (1 Nov 2023)
+>« Les Voisinages du programme »,
+>[[En tant qu’Un. La « non-philosophie » expliquée aux philosophes]], Paris: Aubier, 1991, p. 173-6
+>
+>auth. [[François Laruelle]], trans. [[Sylvia Nambiar]]
 
 -----
 >[!note]+ Sylvia's Note
