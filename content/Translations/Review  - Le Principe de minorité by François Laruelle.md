@@ -7,7 +7,7 @@ title: "Review\r: Le Principe de minorité by François Laruelle"
 >auth. [[Serge Valdinoci]], trans. [[Sylvia Nambiar]]
 
 
-_[[Le Principe de minorité]]_, by François Laruelle, Aubier, Paris, Collection «Analyse et raisons», 1981.
+_[[Le Principe de minorité]]_, by [[François Laruelle]], Aubier: Paris, Collection «Analyse et raisons», 1981.
 
 This essay, written with force but finesse, resonates firstly in a certainly strange manner. The title announces the intentions: against the philosophical principle of majority which reigns and forms the “Greco-occidental style”, the author wanted to form the thought of the after-philosophy, or the thought of the One against that of the relative. It proceeds to speak properly of a de-march out of the marches, whatever the level of the latter; thus, idealism, materialism, criticism, phenomenologicism, hermeneuticism, Nietzscheanism, differentialism are sent back-to-back by the high tribunal of a still unprecedented transcendental. The strangeness of a discourse that refuses the discursive style of philosophy, and that otherwise extracts the concept of minority from its usual _emplacement_, politics, to pose—in its sudden philosophical brilliance—atop the peak of the One or Absolute, which then refuses to let it be _placed_, to _relate_ itself to anything that relativizes (the conscious subject, history, etc.).
 
