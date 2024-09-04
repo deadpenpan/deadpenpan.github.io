@@ -1,4 +1,6 @@
 ---
 title: One-in-One
 ---
-%% Error: Cannot create a waypoint in a note that's not the folder note. For more information, check the instructions [here](https://github.com/IdreesInc/Waypoint) %%
+* [[content/Translations/index|index]]
+* [[content/Notes/index|index]]
+* [[content/Texts/index|index]]
