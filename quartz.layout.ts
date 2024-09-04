@@ -28,7 +28,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({title: "Sitemap",
+		folderClickBehavior: "collapse",
+		folderDefaultState: "collapsed",
+		useSavedState: true,
+})),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
