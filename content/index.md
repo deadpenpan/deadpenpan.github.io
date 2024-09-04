@@ -1,6 +1,8 @@
 ---
 title: One-in-One
+aliases:
+  - Home
 ---
-* [[content/Translations/index|index]]
-* [[content/Notes/index|index]]
-* [[content/Texts/index|index]]
+* [[content/Translations/index|Translations]]
+* [[content/Notes/index|Notes]]
+* [[content/Texts/index|Texts]]
