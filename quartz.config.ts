@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "One-in.One",
+    pageTitle: "😈🥱💀🙂‍↕️",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -26,13 +26,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "rgba(177, 204, 116, 0.15)",
-          lightgray: "rgba(224, 26, 79, 0.40)",
+          light: "#f0f4ef",
+          lightgray: "#b4cded88",
           gray: "#004FFF",
           darkgray: "#050609",
           dark: "#00000 0",
           secondary: "#e01a4f",
-          tertiary: "#b191ff",
+          tertiary: "#344966",
           highlight: "rgba(255, 127, 17, 0.15)",
           textHighlight: "#df99f088",
         },

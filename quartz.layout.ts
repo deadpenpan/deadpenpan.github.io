@@ -52,5 +52,7 @@ export const defaultListPageLayout: PageLayout = {
 		useSavedState: true,
 	})),
   ],
-  right: [],
+  right: [
+	Component.RecentNotes()
+	],
 }

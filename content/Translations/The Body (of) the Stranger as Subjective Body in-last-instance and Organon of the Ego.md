@@ -1,8 +1,15 @@
+---
+draft: false
+aliases:
+  - The Body (of) the Stranger
+title: The Body (of) the Stranger
+---
+
 >[!info]+
->### « Le corps (de) l'Etranger comme corps subjectif en-dernière-ins­tance et organon de l'Ego », Théorie des Etrangers, auth. [[François Laruelle]], Paris: Kimé, 1995, pp. 155-8, trans. [[Sylvia Nambiar]]
+>### « Le corps (de) l'Etranger comme corps subjectif en-dernière-ins­tance et organon de l'Ego », [[Théorie des Etrangers]], auth. [[François Laruelle]], Paris: Kimé, 1995, pp. 155-8, trans. [[Sylvia Nambiar]]
 
 >[!note]+ Sylvia's Note
->Several sections of _Théorie des Etrangers_ have been translated by [[Jeremy R. Smith]] on his blog (https://endemictheory.wordpress.com)
+>Several sections of _[[Théorie des Etrangers]]_ have been translated by [[Jeremy R. Smith]] on his blog (https://endemictheory.wordpress.com)
 >	
 >[“Programme: Who is the Stranger? A New Idea” (p.11-19)](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/)  
 >[“‘Non-Humanism’ and the Critique of Humanist Imagery” (p.105-110)](https://endemictheory.wordpress.com/2021/01/10/translation-of-francois-laruelle-non-humanism-and-the-critique-of-humanist-imagery/)  
@@ -12,7 +19,7 @@
 >[“The Forgetting of the Real or the Joui” (p.183-201)](https://endemictheory.wordpress.com/2021/07/03/translation-of-francois-laruelle-the-forgetting-of-the-real-or-the-joui-from-theorie-des-etrangers-1995/)  
 >[“Which One Resists? Indifference and Resistance” (p.216-219)](https://endemictheory.wordpress.com/2022/10/18/translation-of-francois-laruelle-which-one-resists-indifference-and-resistance-from-theorie-des-etrangers-1995/)
 >
->A translation of the entire monograph by Jeremy is also forthcoming.
+>A translation of the entire monograph, [[Théorie des Etrangers|Theory of Strangers]], by [[Jeremy R. Smith|Jeremy]] is also forthcoming.
 
 We have chosen to no longer define “man” in the manner of a metaphysical entity and with a philosophical argumentation. This leans on empirical givens that continuously idealizes (the unitary concept). Among these givens, and this definition, the body-form is certainly fundamental and oscillates between the object body and the proper body. There is no philosophy or Human Science that does not search for a unitary concept of man as body, where the idealized body—image, form, overflown {survolé} or contemplated concept—seems to exhaust the whole of human reality. It cannot be a question of proceeding thus in a science of humans and of once more interiorizing the imaginary paradigm of man as transcendent “body” that one both objectifies and subjectifies—or any other partition {partage}—according to proportions that are variable but defined each time. Let us nevertheless suppose that we still define the specific essence of man, the sphere of Being or the Stranger, by the “body” so as to give a body to the Stranger. On the one hand, the non-positional and non-donational Ego is not itself this body but rather the cause of the body, its subjectivity-of-last-instance. The sphere of the body (of) the Stranger is, so to speak, derealized. On the other hand, of this transcendental body, real-in-last-instance only, there will be no unitary concept, blending empirical givens (of which the “object-body” form) and their idealization within a mix {mixte}, but a non-auto-positional and non-auto-donational objective essence specified and determined by variable cognitions {connaissances} produced about it.
 
