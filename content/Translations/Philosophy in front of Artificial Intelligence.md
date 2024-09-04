@@ -1,11 +1,12 @@
 
-### La philosophie devant l'Intelligence artificielle, auth. [[François Laruelle]], Le Cahier (Collège international de philosophie), No. 3 (mars 1987), PUF, trans. [[Sylvia Nambiar]]
+>[!info]+
+>### La philosophie devant l'Intelligence artificielle, auth. [[François Laruelle]], Le Cahier (Collège international de philosophie), No. 3 (mars 1987), PUF, trans. [[Sylvia Nambiar]]
 
 -----
-
-**Note 1:** A modified version of this short text appears in _Théorie des identities._ _Fractalité généralisée et philosophie artificielle_, Paris: PUF, 1992; _Theory of Identities_, trans. [[Alyosha Edlebi]], New York: Columbia University Press, 2016.
-
-Note 2: This is a revised version of an old translation.
+>[!note]+ Sylvia's Notes
+>**Note 1:** A modified version of this short text appears in _Théorie des identities._ _Fractalité généralisée et philosophie artificielle_, Paris: PUF, 1992; _Theory of Identities_, trans. [[Alyosha Edlebi]], New York: Columbia University Press, 2016.
+>
+>**Note 2:** This is a revised version of an old translation.
 
 ------
 This formula covers a triple program:

@@ -1,8 +1,23 @@
 
-### « Les Voisinages du programme », auth. [[François Laruelle]] (En tant qu’Un. La « non-philosophie » expliquée aux philosophes, Paris: Aubier, 1991, p. 173-6), trans. [[Sylvia Nambiar]] (1 Nov 2023)
+>[!info]+ 
+>### « Les Voisinages du programme », auth. [[François Laruelle]] (En tant qu’Un. La « non-philosophie » expliquée aux philosophes, Paris: Aubier, 1991, p. 173-6), trans. [[Sylvia Nambiar]] (1 Nov 2023)
 
 -----
-Note: Several other translations from this book by [[Jeremy R. Smith]], including the section immediately preceding this one, can be found at [endemictheory.wordpress.com/translations](https://endemictheory.wordpress.com/translations/).
+>[!note]+ Sylvia's Note
+> Several other translations from this book by [[Jeremy R. Smith]], including the sections immediately
+> preceding and following this one, can be found at [endemictheory.wordpress.com/translations](https://endemictheory.wordpress.com/translations/).
+>
+>[“Opening Address” (p.9-13)](https://endemictheory.wordpress.com/2021/05/25/translation-of-francois-laruelle-opening-address-from-en-tant-quun-1991/)  
+>[“First and Second Academic Presentations” (p.17-21, p.22-28)](https://endemictheory.wordpress.com/2021/01/02/translation-of-francois-laruelles-first-and-second-academic-presentations/)  
+>[“Rumor and Knowledge” (p.41-46)](https://endemictheory.wordpress.com/2023/05/28/translation-of-francois-laruelle-rumor-and-knowledge-from-en-tant-quun-1991/)  
+>[“Why We Must Speak of ‘Science'” (p.47-53)](https://endemictheory.wordpress.com/2021/03/16/translation-of-francois-laruelle-why-we-must-speak-of-science-from-en-tant-quun/)  
+>[“Homo Sive Scientia” (p.54-60)](https://endemictheory.wordpress.com/2021/03/16/translation-of-francois-laruelle-homo-sive-scientia-from-en-tant-quun/)  
+>[“Science and Philosophy: A Global Re-Evaluation” (p.79-115)](https://endemictheory.wordpress.com/2020/12/27/translation-of-francois-laruelle-science-and-philosophy-a-global-re-evaluation/)  
+>[“Difference and Identity: Theses on the Future of Thought” (p.116-121)](https://endemictheory.wordpress.com/2021/08/16/translation-of-francois-laruelle-difference-and-identity-theses-on-the-future-of-thought-in-en-tant-quun-1991/)  
+>[“Invent Philosophy!” (p.145-171)](https://endemictheory.wordpress.com/2022/08/21/translation-of-francois-laruelle-invent-philosophy-from-en-tant-quun-1991/)  
+>[“A Lesson on Non-Philosophy” (p.177-197)](https://endemictheory.wordpress.com/2021/09/27/translation-of-francois-laruelle-a-lesson-on-non-philosophy-from-en-tant-quun-1991/)  
+>[“Heresy: Interview with Jean-Didier Wagneur” (p.207-225)](https://endemictheory.wordpress.com/2021/01/07/translation-of-francois-laruelle-heresy-an-interview-with-jean-didier-wagneur/)  
+>[“The New Spirit of Heresy: Interview with Didier Cahen” (p.224-242)](https://endemictheory.wordpress.com/2022/04/24/translation-of-francois-laruelle-the-new-spirit-of-heresy-interview-with-didier-cahen-from-en-tant-quun-1991/)
 
 -----
 
