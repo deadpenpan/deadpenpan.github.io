@@ -20,9 +20,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cormorant Garamond",
-        body: "Lato",
-        code: "PT Serif",
+        header: "Gelasio",
+        body: "Hind Guntur Medium",
+        code: "Tinos",
       },
       colors: {
         lightMode: {
