@@ -1,0 +1,5 @@
+---
+title: People
+aliases:
+  - People
+---
