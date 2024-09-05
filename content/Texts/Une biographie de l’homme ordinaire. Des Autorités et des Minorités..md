@@ -5,3 +5,4 @@ aliases:
   - "A Biography of Ordinary Man: On Authorities and Minorities"
   - Biography
 ---
+This page is a stub. It may or may not be updated with content.
