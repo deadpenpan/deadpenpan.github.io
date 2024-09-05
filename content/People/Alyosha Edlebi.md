@@ -1,1 +1,0 @@
-Translator of [[Theory of Identities]]
