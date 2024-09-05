@@ -4,6 +4,7 @@ aliases:
   - ToS
   - TdE
   - Théorie des Étrangers. Science des hommes, démocratie, non-psychanalyse
+  - Théorie des Étrangers
 title: Théorie des Étrangers. Science des hommes, démocratie, non-psychanalyse
 ---
 >[!info]
