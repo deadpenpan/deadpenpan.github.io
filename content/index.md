@@ -3,6 +3,6 @@ title: One-in-One
 aliases:
   - Home
 ---
-* [[/Translations|Translations]]
-* [[/Notes|Notes]]
-* [[/Texts|Texts]]
+* [[content/Translations/index|Translations]]
+* [[content/Notes/index|Notes]]]
+* [[content/Texts/index|Texts]]

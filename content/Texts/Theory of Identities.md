@@ -1,10 +1,10 @@
 ---
-title: Théorie des identities. Fractalité généralisée et philosophie artificielle
+title: Théorie des identités. Fractalité généralisée et philosophie artificielle.
 aliases:
   - Theory of Identities
   - ToI
   - TdI
-  - Théorie des identities. Fractalité généralisée et philosophie artificielle
+  - Théorie des identités. Fractalité généralisée et philosophie artificielle.
 ---
 >[!info]
 >auth. [[François Laruelle]]

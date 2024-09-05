@@ -31,48 +31,29 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 - _[[Le Nouvel esprit technologique]]_, Paris: Les belles lettres, 2020.
 
 - _[[Pourquoi pas la philosophie|Pourquoi pas la philosophie ?]]_, Paris: self-published, 1983-1985.
-    - _I: Descartes, mission terminée, retour impossible_, 1983. [[Pourquoi pas la philosophie#1. Pourquoi pas la philosophie ?, I. Descartes, mission terminée, retour impossible. (April 1983)]]
-        - [_On the Contingency of Reason_](https://endemictheory.wordpress.com/2021/08/08/translation-of-francois-laruelle-on-the-contingency-of-reason-in-pourquoi-pas-la-philosophie-1-april-1983/), pp. 42-5, trans. Jeremy R Smith. (English)
-    - _II: Les crimes de l’histoire de la philosophie_, 1983. (French)
-        - [_The History of Philosophy as the Techno-Politics of the Philosophical Order_](https://endemictheory.wordpress.com/2021/08/08/translation-of-francois-laruelle-the-history-of-philosophy-as-the-techno-politics-of-the-philosophical-order-in-pourquoi-pas-la-philosophie-2-october-1983/), pp. 31-42, trans. Jeremy R Smith. (English)
-        - [_The Evil-of-Philosophizing_](https://endemictheory.wordpress.com/2021/09/06/translation-of-francois-laruelle-the-evil-of-philosophizing-from-pourquoi-pas-la-philosophie-2-october-1983/), pp. 53-4, trans. Jeremy R Smith. (English)
-    - _III: Théorie de la décision philosophique_, 1984. (French)
-        - [_Why Not Philosophy?_](https://endemictheory.wordpress.com/2021/03/21/translation-of-francois-laruelle-why-not-philosophy-in-pourquoi-pas-la-philosophie-3-1984/), pp. 32-5, trans. Jeremy R Smith. (English)
-        - [_Philosophy, the Child of Man_](https://endemictheory.wordpress.com/2021/04/04/translation-of-francois-laruelle-philosophy-the-child-of-man-from-pourquoi-pas-la-philosophie-3-february-1984/), pp. 68-70, trans. Jeremy R Smith. (English)
+    - _[[Pourquoi pas la philosophie#I. Descartes, mission terminée, retour impossible. (April 1983)|I. Descartes, mission terminée, retour impossible. (April 1983)]]_
+    - _[[Pourquoi pas la philosophie#II. Les crimes de l’histoire de la philosophie. (October 1983)|II. Les crimes de l’histoire de la philosophie. (October 1983)]]_
+    - _[[Pourquoi pas la philosophie#III. Théorie de la décision philosophique. (February 1984)|III. Théorie de la décision philosophique. (February 1984)]]_
     - _IV: Le philosophe sans qualités_, 1984. (French)
-        - [_The Essence of The People or The Peoples (of) The One_](https://endemictheory.wordpress.com/2021/08/23/translation-of-francois-laruelle-the-essence-of-the-people-or-the-peoples-of-the-one-from-pourquoi-pas-la-philosophie-4-october-1984/), pp. 24-34, trans. Jeremy R Smith. (English)
-        - [_Is Philosophizing a Part of the Rights of Man?_](https://endemictheory.wordpress.com/2021/10/08/translation-of-francois-laruelle-is-philosophizing-a-part-of-the-rights-of-man-from-pourquoi-pas-la-philosophie-4-october-1984%ef%bf%bc/), pp. 50-66, trans. Jeremy R Smith. (English)
-        - [_Theses on the Philosopher Without Qualities_](https://endemictheory.wordpress.com/2021/03/05/translation-of-francois-laruelle-theses-on-the-philosopher-without-qualities-from-pourquoi-pas-la-philosophie-4-1984/), pp. 82-5 (_Thèses d’ensemble_), trans. Jeremy R Smith. (English)
     - _V: Le mystique, le pratique, l’ordinaire_, 1985. (French)
-        - [_The Scientific Theorem of Ordinary Sufficiency_](https://endemictheory.wordpress.com/2021/03/28/translation-of-francois-laruelle-the-scientific-theorem-of-ordinary-sufficiency-from-pourquoi-pas-la-philosophie-5-feburary-1985/), pp. 26-36, trans. Jeremy R Smith. (English)
     - _VI: Métaphysique du futur_, 1985. (French)
-        - [_Research Programme for the Metaphysics of the Future_](https://endemictheory.wordpress.com/2021/04/05/translation-of-francois-laruelle-research-programme-for-the-metaphysics-of-the-future-1985/), pp. 34-48, trans. Jeremy R Smith. (English)
 
-- _Une biographie de l’homme ordinaire. Des Autorités et des Minorités_, Paris: Aubier, 1985. [ARG](https://aaaaarg.fail/thing/525a1df3307888b23e00002f) (French)
-    - _A Biography of Ordinary Man: On Authorities and Minorities", trans. Jessie Hock & Alex Dubilet, Medford: Polity Press, 2018. [ARG](https://aaaaarg.fail/thing/5a6d0bed9ff37c0e5009f927). (English)_
+- _[[Une biographie de l’homme ordinaire. Des Autorités et des Minorités.]]_, Paris: Aubier, 1985.
 
-- _Philosophies de la différence. Introduction critique_, Paris: PUF, 1986, 249 pp.
-    - _Philosophies of Difference: A Critical Introduction to Non-philosophy_, trans. Rocco Gangle, Continuum, 2010, 224 pp, [PDF](http://libgen.rs/book/index.php?md5=E7AB0CF7C0A87719C586EB1010CAD229). (English)
+- _[[Philosophies de la différence. Introduction critique]]_, Paris: PUF, 1986, 249 pp.
 
-- _Philosophie et non-philosophie_, Liège/Brussels: Mardaga, 1989. (French)
-    - _Philosophy and Non-Philosophy_, trans. Taylor Adkins, Minneapolis, MN: Univocal Publishing, 2013, [PDF](http://libgen.rs/book/index.php?md5=55cca7aa0226704b5804ae270c16fb04). (English)
+- _[[Philosophie et non-philosophie]]_, Liège/Brussels: Mardaga, 1989. (French)
 
-- _En tant qu’Un. La « non-philosophie » expliquée aux philosophes_, Paris: Aubier, 1991. (French)
+- _[[En tant qu’Un. La « non-philosophie » expliquée aux philosophes]]_, Paris: Aubier, 1991.
 
-- _Théorie des identités: Fractalité généralisée et philosophie artificielle_, Paris: PUF, 1992. (French)
-    - _Theory of Identities_, trans. Alyosha Edlebi, New York: Columbia University Press, 2016, 270 pp, [ARG](http://aaaaarg.fail/thing/576469839ff37c3782f9442a). (English)
+- _[[Theory of Identities|Théorie des identités. Fractalité généralisée et philosophie artificielle.]]_, Paris: PUF, 1992.
 
 ## Philosophie III
 
-- _Théorie des Étrangers. Science des hommes, démocratie, non-psychanalyse_, Paris: Kimé, 1995.
-    - [_Programme: Who is the Stranger? A New Idea_](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/), pp. 11-9, trans. Jeremy R Smith. (English)
-    - [_“Non-Humanism” and the Critique of Humanist Imagery”_](https://endemictheory.wordpress.com/2021/01/10/translation-of-francois-laruelle-non-humanism-and-the-critique-of-humanist-imagery/), pp. 105-10, trans. Jeremy R Smith. (English)
-    - [_Let Us Transform the Knowledge of Man Rather Than Transform Man_](https://endemictheory.wordpress.com/2021/08/30/translation-of-francois-laruelle-let-us-transform-the-knowledge-of-man-rather-than-transform-man-from-theorie-des-etrangers-1995/), pp. 110-2, trans. Jeremy R Smith. (English)
-    - [_The Stranger as Void, Law, and_ Multitudo Transcendentalis_: On the Concept of “Human Multitudes”_](https://endemictheory.wordpress.com/2021/04/09/translation-of-francois-laruelle-the-stranger-as-void-law-and-multitudo-transcendentalis-from-theorie-des-etrangers-1995/). pp. 159-63, trans. Jeremy R Smith. (English)
-    - [_The Forgetting of the Real or the_ Joui](https://endemictheory.wordpress.com/2021/07/03/translation-of-francois-laruelle-the-forgetting-of-the-real-or-the-joui-from-theorie-des-etrangers-1995/), pp. 183-201, trans. Jeremy R Smith. (English)
+- _[[Théorie des Etrangers|Théorie des Étrangers. Science des hommes, démocratie, non-psychanalyse]]_, Paris: Kimé, 1995.
 
 - _Principes de la non-philosophie_, Paris: Presses Universitaires de France, 1996. (French)
-    - _Principles of Non-Philosophy_, trans. Nicola Rubczak and Anthony Paul Smith, Bloomsbury Academic, 2013. [Log](http://monoskop.org/log/?p=8445) (English)
+    - _Principles of Non-Philosophy_, trans. Nicola Rubczak and Anthony Paul Smith, Bloomsbury Academic, 2013.
 
 - _L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque_, Stuttgart: Jutta Legueil, 1997. (German)
 
@@ -81,9 +62,9 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
     - [_The Organon of the Force (of) the Law_](https://endemictheory.wordpress.com/2021/09/03/translation-of-francois-laruelle-the-organon-of-the-force-of-the-law-from-ethique-de-letranger-2000/), (p.327-38, trans. Jeremy R Smith. (English)
     - _Etica do Estrangiero. Do Crime contra a Humanidade_, trans. Maria Fernanda Oliveira, Bobadela: Portugal Instituto Piaget, 2002. (Portuguese)
 
-- _Introduction au Non-Marxisme_, Paris: PUF, 2000, [PDF](http://libgen.rs/book/index.php?md5=1ADBA54E50A04F026792C1A83F2150B2). (French)
+- _Introduction au Non-Marxisme_, Paris: PUF, 2000.
     - [_Chapter III: Determination-in-the-Last-Instance_](https://speculativeheresy.wordpress.com/2008/07/20/chapter-3-of-laruelles-introduction-to-non-marxism-determination-in-the-last-instance-dli/), pp. 39-55, trans. Taylor Adkins. (English)
-    - _Introduction to Non-Marxism_, trans. Anthony Paul Smith, Minneapolis, MN: Univocal, 2015, [PDF](http://libgen.rs/book/index.php?md5=db8f3bf46aaeb15562be26df233c3cff). (English)
+    - _Introduction to Non-Marxism_, trans. Anthony Paul Smith, Minneapolis: Univocal, 2015.
 
 ## Philosophie IV
 
@@ -96,7 +77,7 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 - _La lutte et l'utopie à la fin des temps philosophiques_, Paris: Kimé, 2004, 204 pp. (French)
     - _Struggle and Utopia at the End Times of Philosophy_, trans. Drew S. Burk and Anthony Paul Smith, Minneapolis, MN: Univocal, 2012. [PDF](http://libgen.rs/book/index.php?md5=EA260B9CD4A53AA097F18AC740DE9B5E) (English)
 
-- _Mystique non-philosophique à l’usage des contemporains_ (initially announced as _Théorèmes mystiques_), Paris: L'Harmattan, 2007. [ARG](https://aaaaarg.fail/thing/525343ad307888345800000e) (French)
+- _Mystique non-philosophique à l’usage des contemporains_ (initially announced as _Théorèmes mystiques_), Paris: L'Harmattan, 2007.
     - [_The World as Mystic-World_](https://endemictheory.wordpress.com/2021/07/11/translation-of-francois-laruelle-the-world-as-mystic-world-in-mystique-non-philosophique-a-lusage-des-contemporains-2007/), pp. 205-8, trans. Jeremy R Smith. (English)
     - [_Disalienation and Liberation of Heresy, Selections from the text_](https://endemictheory.wordpress.com/2021/05/29/translation-of-francois-laruelle-disalienation-and-liberation-of-heresy-selections-from-mystique-non-philosophique-a-lusage-des-contemporains-2007/), pp. 229-35, trans. [Jeremy R Smith](https://monoskop.org/Jeremy_R_Smith "Jeremy R Smith"). (English)
 
@@ -128,11 +109,11 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
     - _Christo-Fiction: the Ruins of Athens and Jerusalem_, trans. [[Maya B. Kronic|Robin Mackay]], Columbia University Press, 2015.
 
 - _En dernière humanité. La nouvelle science écologique_, Paris: Cerf., 2015. (French)
-    - _The Last Humanity: The New Ecological Science_, trans. Anthony Paul Smith, Bloomsbury, 2020. [ARG](https://aaaaarg.fail/thing/6019b8fa9ff37c1ca12e81bf) (English)
+    - _The Last Humanity: The New Ecological Science_, trans. Anthony Paul Smith, Bloomsbury, 2020.
 
 - _Théologie clandestine pour les sans-religion : Une confession de foi du non-philosophe_, Paris: Kimé, 2019.
     - [_Invocation_](https://endemictheory.wordpress.com/2021/12/06/translation-of-francois-laruelle-invocation-from-theologie-clandestine-pour-les-sans-religion/), pp. 7-9 (omitted from the Sackin-Poll trans.), trans. Jeremy R. Smith. (English)
-    - _Clandestine Theology: A Non-Philosopher's Confession of Faith_, trans. Andrew Sackin-Poll, Bloomsbury, 2020. (English)
+    - _Clandestine Theology: A Non-Philosopher's Confession of Faith_, trans. Andrew Sackin-Poll, Bloomsbury, 2020.
 
 - _[[Tétralogos, un opéra de philosophies]]_, Paris: Cerf., 2019.
 
