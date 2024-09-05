@@ -4,7 +4,7 @@ aliases:
 ---
 # Works
 
-Adapted from bibliographies in _La Philosophie non-standard de François Laruelle_ (ed. [[Anne-Françoise Schmid]], Maryse Dennes & John Ó Maiolearca) and _Alien Theory: The Decline of Materialism in the Name of Matter_ (auth. Ray Brassier).
+Adapted from bibliographies in _La Philosophie non-standard de François Laruelle_ (ed. [[Anne-Françoise Schmid|Anne-Françoise]], Maryse Dennes & John Ó Maiolearca) and _Alien Theory: The Decline of Materialism in the Name of Matter_ (auth. [[Ray Brassier]]).
 
 ## Theses
 
@@ -35,10 +35,7 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Le Principe de minorité]]_, Paris: Aubier Montaigne, 1981.
 
-- _Le Nouvel esprit technologique_, Paris: Les belles lettres, 2020. (French)
-    - [_From Philosophical Critique to Scientific Critique_](https://endemictheory.wordpress.com/2021/01/13/translation-of-francois-laruelle-from-philosophical-critique-to-scientific-critique-in-le-nouvel-esprit-technologique/), pp. 66-72, trans. Jeremy R Smith. (English)
-    - [_The Fundamental Questions and Research Programmes for a Study into the NET_](https://endemictheory.wordpress.com/2021/11/15/translation-of-francois-laruelle-the-fundamental-questions-and-research-programmes-for-a-study-into-the-net-from-le-nouvel-esprit-technologique-2020/), pp. 85-98, trans. Jeremy R. Smith. (English)
-    - [_The Jabès-Book and the Techno-Biblio-Logical Continuum_](https://endemictheory.wordpress.com/2021/06/21/translation-of-francois-laruelle-the-jabes-book-and-the-techno-biblio-logical-continuum-selections-from-le-nouvel-esprit-technologique-2020/), pp. 103-36, trans. Jeremy R Smith. (English)
+- _Le Nouvel esprit technologique_, Paris: Les belles lettres, 2020.
 
 - _Pourquoi pas la philosophie?_, Paris: self-published, 1983-1985.
     - _I: Descartes, mission terminée, retour impossible_, 1983. [[Pourquoi pas la philosophie#1. Pourquoi pas la philosophie ?, I. Descartes, mission terminée, retour impossible. (April 1983)]]
@@ -68,14 +65,6 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
     - _Philosophy and Non-Philosophy_, trans. Taylor Adkins, Minneapolis, MN: Univocal Publishing, 2013, [PDF](http://libgen.rs/book/index.php?md5=55cca7aa0226704b5804ae270c16fb04). (English)
 
 - _En tant qu’Un. La « non-philosophie » expliquée aux philosophes_, Paris: Aubier, 1991. (French)
-    - [_Opening Address_](https://endemictheory.wordpress.com/2021/05/25/translation-of-francois-laruelle-opening-address-from-en-tant-quun-1991/), pp. 9-13, trans. Jeremy R. Smith. (English)
-    - [_First and Second Academic Presentations_](https://endemictheory.wordpress.com/2021/01/02/translation-of-francois-laruelles-first-and-second-academic-presentations/), pp. 17-21 & 22-8, trans. Jeremy R Smith. (English)
-    - [_Why We Must Speak of “Science”_](https://endemictheory.wordpress.com/2021/03/16/translation-of-francois-laruelle-why-we-must-speak-of-science-from-en-tant-quun/), pp. 47-53, trans. Jeremy R Smith. (English)
-    - [_Homo Sive Scientia_](https://endemictheory.wordpress.com/2021/03/16/translation-of-francois-laruelle-homo-sive-scientia-from-en-tant-quun/), pp. 54-60, trans. Jeremy R Smith. (English)
-    - [_Science and Philosophy: A Global Re-Evaluation_](https://endemictheory.wordpress.com/2020/12/27/translation-of-francois-laruelle-science-and-philosophy-a-global-re-evaluation/), pp. 79-115, trans. Jeremy R Smith. (English)
-    - [_Difference and Identity: Theses on the Future of Thought_](https://endemictheory.wordpress.com/2021/08/16/translation-of-francois-laruelle-difference-and-identity-theses-on-the-future-of-thought-in-en-tant-quun-1991/), pp. 116-21, trans. Jeremy R Smith. (English)
-    - [_A Lesson on Non-Philosophy_](https://endemictheory.wordpress.com/2021/09/27/translation-of-francois-laruelle-a-lesson-on-non-philosophy-from-en-tant-quun-1991/) pp. 177-97, trans. Jeremy R Smith. (English)
-    - [_Heresy: Interview with Jean-Didier Wagneur_](https://endemictheory.wordpress.com/2021/01/07/translation-of-francois-laruelle-heresy-an-interview-with-jean-didier-wagneur/), pp .207-25, trans. Jeremy R Smith. (English)
 
 - _Théorie des identités: Fractalité généralisée et philosophie artificielle_, Paris: PUF, 1992. (French)
     - _Theory of Identities_, trans. Alyosha Edlebi, New York: Columbia University Press, 2016, 270 pp, [ARG](http://aaaaarg.fail/thing/576469839ff37c3782f9442a). (English)
@@ -135,15 +124,15 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
     - _Koncept nefotografie_, trans. Čestmír Pelikán, Fotograf 07, 2012.
 
 - _Théorie générale des victimes_, Paris: Fayard, 2011.
-    - _General Theory of Victims_, trans. Alex Dubilet and Jessie Hock, New York: Polity, 2015, xxi+151 pp, [PDF](http://libgen.rs/book/index.php?md5=28d6fe5addd9f96812f440f086610d57). (English)
+    - _General Theory of Victims_, trans. Alex Dubilet and Jessie Hock, New York: Polity, 2015.
 
 - _Anti-Badiou: sur l'introduction du maoïsme dans la philosophie_, Paris: Kimé, 2011. (French)
-    - _Anti-Badiou: On the Introduction of Maoism Into Philosophy_, trans. Robin Mackay, London/New York: Bloomsbury Academic, 2013, [Log](http://monoskop.org/log/?p=8731), [PDF](http://libgen.rs/book/index.php?md5=0A8B75EF0A4B58416362BCEA250096ED). (English)
+    - _Anti-Badiou: On the Introduction of Maoism Into Philosophy_, trans. [[Maya B. Kronic|Robin Mackay]], London/New York: Bloomsbury Academic, 2013.
 
-- _Photo-fiction, une esthétique non-standard / Photo-Fiction, a Non-Standard Aesthetics_, trans. Drew S. Burke, Minneapolis, MN: Univocal, 2012, [Log](http://monoskop.org/log/?p=6835). (French)/(English)
+- _Photo-fiction, une esthétique non-standard / Photo-Fiction, a Non-Standard Aesthetics_, trans. Drew S. Burke, Minneapolis, MN: Univocal, 2012.
 
 - _Christo-fiction: les ruines d'Athènes et de Jérusalem_, Fayard, 2013, 368 pp. (French)
-    - _Christo-Fiction: the Ruins of Athens and Jerusalem_, trans. [[Robin Mackay]], Columbia University Press, 2015, [PDF](http://libgen.rs/book/index.php?md5=47B0F56B474A2D0CA1B118A0371B5C09). (English)
+    - _Christo-Fiction: the Ruins of Athens and Jerusalem_, trans. [[Maya B. Kronic|Robin Mackay]], Columbia University Press, 2015.
 
 - _En dernière humanité. La nouvelle science écologique_, Paris: Cerf., 2015. (French)
     - _The Last Humanity: The New Ecological Science_, trans. Anthony Paul Smith, Bloomsbury, 2020. [ARG](https://aaaaarg.fail/thing/6019b8fa9ff37c1ca12e81bf) (English)
@@ -152,34 +141,31 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
     - [_Invocation_](https://endemictheory.wordpress.com/2021/12/06/translation-of-francois-laruelle-invocation-from-theologie-clandestine-pour-les-sans-religion/), pp. 7-9 (omitted from the Sackin-Poll trans.), trans. Jeremy R. Smith. (English)
     - _Clandestine Theology: A Non-Philosopher's Confession of Faith_, trans. Andrew Sackin-Poll, Bloomsbury, 2020. (English)
 
-- _Tétralogos, un opéra de philosophies_, Paris: Cerf., 2019. (French)
-    - [_What Is To Be Done With Philosophy?_](https://endemictheory.wordpress.com/2021/05/30/translation-of-francois-laruelle-what-is-to-be-done-with-philosophy-from-tetralogos-2018/), pp. 46-54, trans. Jeremy R Smith. (English).
-    - [_The Non-Philosophical or Super-Philosophical Rebellion of Music_](https://endemictheory.wordpress.com/2021/06/29/translation-of-francois-laruelle-the-non-philosophical-or-super-philosophical-rebellion-of-music-in-tetralogos-2018/), pp. 559-62, trans. Jeremy R Smith. (English).
-    - [_Towards a Treatise of Speculative Music_](https://endemictheory.wordpress.com/2021/07/30/translation-of-francois-laruelle-towards-a-treatise-of-speculative-music-from-tetralogos-2018/), pp. 593-607, trans. Jeremy R Smith. (English).
+- _[[Tétralogos, un opéra de philosophies]]_, Paris: Cerf., 2019.
 
-### Translated Collections of Essays by Laruelle[[edit](https://monoskop.org/index.php?title=Fran%C3%A7ois_Laruelle&action=edit&section=8 "Edit section: Translated Collections of Essays by Laruelle")]
+## Translated Collections of Essays by Laruelle
 
-- _The Non-Philosophy Project: Essays by François Laruelle_, ed. Alkon Gabriel & Gunjevic Boris, New York: Telos Press Publishing, 2012
+- _The Non-Philosophy Project: Essays by François Laruelle_, ed. Alkon Gabriel & Gunjevic Boris, New York: Telos Press Publishing, 2012.
 
-- _From Decision to Heresy: Experiments in Non-Standard Thought_, ed. Robin Mackay, New York: Sequence Press, 2013.
+- _From Decision to Heresy: Experiments in Non-Standard Thought_, ed. [[Maya B. Kronic|Robin Mackay]], New York: Sequence Press, 2013.
 
-### Edited by Laruelle[[edit](https://monoskop.org/index.php?title=Fran%C3%A7ois_Laruelle&action=edit&section=9 "Edit section: Edited by Laruelle")]
+## Edited by Laruelle
 
-- _Textes pour Emmanuel Levinas_, Paris: Jean-Michel Place, 1980. (French)
+- _Textes pour Emmanuel Levinas_, Paris: Jean-Michel Place, 1980.
 
-- _La Décision philosophique_, 9 issues, Paris: éditions Osiris, 1987-89. (French)
+- _La Décision philosophique_, 9 issues, Paris: éditions Osiris, 1987-89.
 
-- _Du mode d’existence des objets techniques_, auth. [Gilbert Simondon](https://monoskop.org/Gilbert_Simondon "Gilbert Simondon"), Paris: Aubier, coll. « RES, l’invention philosophique », 1989. (French)
+- _Du mode d’existence des objets techniques_, auth. [[Gilbert Simondon]], Paris: Aubier, coll. « RES, l’invention philosophique », 1989.
 
-- _L’individuation psychique et collective_, auth. [Gilbert Simondon](https://monoskop.org/Gilbert_Simondon "Gilbert Simondon"), Paris Aubier, coll. « RES, l’invention philosophique », 1989. (French)
+- _L’individuation psychique et collective_, auth. [[Gilbert Simondon]], Paris Aubier, coll. « RES, l’invention philosophique », 1989.
 
-- _La non-philosophie des contemporains_, Paris: Kimé, 1995. (French)
+- _La non-philosophie des contemporains_, Paris: Kimé, 1995.
 
-- _Discipline hérétique_, Paris: Kimé, 1998. (French)
+- _Discipline hérétique_, Paris: Kimé, 1998.
 
-- _Dictionnaire de la non-philosophie_,with Tony Brachet, Gilbert Kieffer, Laurent Leroy, Daniel Nicolet, Anne-Françoise Schmid, Serge Valdinoci, Paris: Kimé, 1998. (French)
-    - _Dictionary of Non-Philosophy_, trans. Taylor Adkins, Minneapolis, MN: Univocal, 2013, [PDF](http://libgen.rs/book/index.php?md5=0a3a8fdff1c63ff9535c05b31d55cb4f). (English)
+- _Dictionnaire de la non-philosophie_, with Tony Brachet, Gilbert Kieffer, Laurent Leroy, Daniel Nicolet, [[Anne-Françoise Schmid|Anne-Françoise]], [[Serge Valdinoci]], Paris: Kimé, 1998.
+    - _Dictionary of Non-Philosophy_, trans. Taylor Adkins, Minneapolis, MN: Univocal, 2013.
 
-- _Homo ex machina_, Paris: L'Harmattan, 2005, 274 pp, [ARG](http://aaaaarg.fail/thing/52f7650c307888607300001d). (French)
+- _Homo ex machina_, Paris: L'Harmattan, 2005.
 
-- _Fabriques de l’insécurité_, Paris: L'Harmattan, 2007. (French)
+- _Fabriques de l’insécurité_, Paris: L'Harmattan, 2007.
