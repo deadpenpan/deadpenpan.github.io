@@ -1,5 +1,5 @@
 ---
-title: One-in-One
+title: one-in.one
 aliases:
   - Home
 ---
