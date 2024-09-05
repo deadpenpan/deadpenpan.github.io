@@ -1,0 +1,7 @@
+---
+draft:
+---
+
+
+
+Operations: Quantification, Subjectivation
