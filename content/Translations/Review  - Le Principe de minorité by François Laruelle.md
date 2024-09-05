@@ -2,9 +2,10 @@
 title: "Review\r: Le Principe de minorité by François Laruelle"
 ---
 >[!info]
->Revue de Métaphysique et de Morale, 89e Année, No. 2 (Avril-Juin 1984), pp. 268-270
->
 >auth. [[Serge Valdinoci]], trans. [[Sylvia Nambiar]]
+>
+>pub. Revue de Métaphysique et de Morale, 89e Année, No. 2 (Avril-Juin 1984), pp. 268-270.
+
 
 
 _[[Le Principe de minorité]]_, by [[François Laruelle]], Aubier: Paris, Collection «Analyse et raisons», 1981.

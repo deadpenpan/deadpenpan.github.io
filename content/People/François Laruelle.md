@@ -20,24 +20,17 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Le Déclin de l'écriture]]_, Paris: Aubier-Flammarion, 1977.
 
-- _Nietzsche contre Heidegger. Thèses pour une politique nietzschéenne_, Paris: Payot, 1977.
-    - [_Chapter One_](https://fractalontology.wordpress.com/2018/05/06/new-translation-of-francois-laruelles-nietzsche-contre-heidegger-chapter-1/), pp. 9-20 (_Les deux politiques de Nietzsche_), trans. Taylor Adkins.
-    - [_The Misunderstanding: Nietzschean Politics and Freudian Politics_](https://endemictheory.wordpress.com/2021/05/29/translation-of-francois-laruelle-the-misunderstanding-from-nietzsche-contre-heidegger-1977/), pp. 43-52, trans. Jeremy R Smith. (English)
-    - [_What is “Nietzschean”?_](https://endemictheory.wordpress.com/2021/11/05/translation-of-francois-laruelle-what-is-nietzschean-from-nietzsche-contre-heidegger-1977/), pp. 67-83, trans. Jeremy R Smith. (English)
-    - [_The Theses of Machinic Materialism and its Distinction from Dialectical Materialism_](https://endemictheory.wordpress.com/2021/12/30/translation-of-francois-laruelle-the-theses-of-machinic-materialism-and-its-distinction-from-dialectical-materialism-from-nietzsche-contre-heidegger-1977/), pp. 122-36, trans. Jeremy R. Smith. (English)
+- _[[Nietzsche contre Heidegger. Thèses pour une politique nietzschéenne.]]_, Paris: Payot, 1977.
 
-- _Au-delà du principe de pouvoir_ (initially titled _Herméneutique générale_), Paris: Payot, 1978.
-    - [_Preface_](https://fractalontology.wordpress.com/2007/10/09/translation-francois-laruelles-preface-to-beyond-the-principle-of-power/), pp. 1-9, trans. Taylor Adkins. (English)
-    - [_The Minoritarian Enunciation_](https://endemictheory.wordpress.com/2021/09/18/translation-of-francois-laruelle-the-minoritarian-enunciation-from-au-dela-du-principe-de-pouvoir-1978/), pp. 27-39, trans. Jeremy R Smith. (English)
-    - [_Rebellious Postulations_](https://barricadejournal.org/wp-content/uploads/2020/06/9-Rebellious-postulations.pdf), pp. 141-54, trans. Jeremy R Smith. (English)
+- _[[Au-delà du principe de pouvoir]]_ (initially titled _Herméneutique générale_), Paris: Payot, 1978.
 
 ## Philosophie II
 
 - _[[Le Principe de minorité]]_, Paris: Aubier Montaigne, 1981.
 
-- _Le Nouvel esprit technologique_, Paris: Les belles lettres, 2020.
+- _[[Le Nouvel esprit technologique]]_, Paris: Les belles lettres, 2020.
 
-- _Pourquoi pas la philosophie?_, Paris: self-published, 1983-1985.
+- _[[Pourquoi pas la philosophie|Pourquoi pas la philosophie ?]]_, Paris: self-published, 1983-1985.
     - _I: Descartes, mission terminée, retour impossible_, 1983. [[Pourquoi pas la philosophie#1. Pourquoi pas la philosophie ?, I. Descartes, mission terminée, retour impossible. (April 1983)]]
         - [_On the Contingency of Reason_](https://endemictheory.wordpress.com/2021/08/08/translation-of-francois-laruelle-on-the-contingency-of-reason-in-pourquoi-pas-la-philosophie-1-april-1983/), pp. 42-5, trans. Jeremy R Smith. (English)
     - _II: Les crimes de l’histoire de la philosophie_, 1983. (French)

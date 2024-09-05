@@ -13,3 +13,8 @@ aliases:
 - [_The Decline of Materialism in the Name of Matter_](https://plijournal.com/files/12_3_Laruelle.pdf), pp. 103-9 (_27. Le réel contre le matérialisme_), trans. [[Ray Brassier]].
 - [_The One is thought and said in an unreflected way_](https://endemictheory.wordpress.com/2021/07/17/translation-of-francois-laruelle-the-one-is-thought-and-said-in-an-unreflected-way-from-le-principe-de-minorite-1981/), pp. 130-6, trans. [[Jeremy R. Smith]].
 - [_On the real as transcendental_](https://endemictheory.wordpress.com/2021/06/19/translation-of-francois-laruelle-on-the-real-as-transcendental-from-le-principe-de-minorite-1981/), pp. 163-9, trans. [[Jeremy R. Smith]].
+
+
+
+
+See also: [[Review  - Le Principe de minorité by François Laruelle]] by [[Serge Valdinoci]]

@@ -4,7 +4,6 @@ aliases:
   - The Body (of) the Stranger
 title: The Body (of) the Stranger
 ---
-
 >[!info]+
 >« Le corps (de) l'Etranger comme corps subjectif en-dernière-ins­tance et organon de l'Ego »
 > [[Théorie des Etrangers]], Paris: Kimé, 1995, pp. 155-8
@@ -12,7 +11,7 @@ title: The Body (of) the Stranger
 >auth. [[François Laruelle]], trans. [[Sylvia Nambiar]]
 
 >[!note]+ Sylvia's Note
->Several sections of _[[Théorie des Etrangers]]_ have been translated by [[Jeremy R. Smith]] on his blog (https://endemictheory.wordpress.com)
+>Several sections of _[[Théorie des Etrangers]]_ have been translated by [[Jeremy R. Smith|Jeremy]] on his blog (https://endemictheory.wordpress.com)
 >	
 >[“Programme: Who is the Stranger? A New Idea” (p.11-19)](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/)  
 >[“‘Non-Humanism’ and the Critique of Humanist Imagery” (p.105-110)](https://endemictheory.wordpress.com/2021/01/10/translation-of-francois-laruelle-non-humanism-and-the-critique-of-humanist-imagery/)  

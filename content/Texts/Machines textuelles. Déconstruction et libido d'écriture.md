@@ -1,6 +1,7 @@
 ---
 aliases:
   - Textual Machines
+  - Machines textuelles
 ---
 >[!info]
 >auth. [[François Laruelle]]
