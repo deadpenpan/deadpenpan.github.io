@@ -54,7 +54,7 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Principes de la non-philosophie]]_, Paris: Presses Universitaires de France, 1996.
 
-- _[[L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque]]_, Stuttgart: Jutta Legueil, 1997.
+- _[[L’hypothèse non-borgésienne]]_, Stuttgart: Jutta Legueil, 1997.
 
 - _Éthique de l’Étranger. Du crime contre l’humanité_, Paris: Kimé, 2000. (French)
     - [_The Victim Question and the Ethical Response_](https://endemictheory.wordpress.com/2021/04/11/translation-of-francois-laruelle-the-victim-question-and-the-ethical-response-from-ethique-de-letranger-2000/), pp. 7-27, trans. Jeremy R Smith. (English)

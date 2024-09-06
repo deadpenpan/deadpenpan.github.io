@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Non-Borgesian Hypothesis
+  - L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque.
+title: L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque.
 ---
 >[!info]
 >auth. [[François Laruelle]]
