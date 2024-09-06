@@ -9,7 +9,11 @@ aliases:
 ---
 
 >[!info]
->This page is a stub. It may or may not be updated with content.
+>auth. [[François Laruelle]]
+>
+>pub. Paris: PUF, 1986.
+>
+>[[François Laruelle#Philosophie II|Philosophie II]]
 
 # Translations
 

@@ -6,6 +6,8 @@ aliases:
 >auth. [[François Laruelle]]
 >
 >pub. Liège/Brussels: Mardaga, 1989.
+>
+>[[François Laruelle#Philosophie II|Philosophie II]]
 
 # Translations
 

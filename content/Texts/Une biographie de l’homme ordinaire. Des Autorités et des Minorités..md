@@ -6,5 +6,12 @@ aliases:
   - Biography
 ---
 >[!info]
->This page is a stub. It may or may not be updated with content.
+>auth. [[François Laruelle]].
+>
+>pub. Paris: Aubier, 1985.
+>
+>[[François Laruelle#Philosophie II|Philosophie II]]
 
+# Translations
+
+* _A Biography of Ordinary Man: On Authorities and Minorities_, trans. [[Jessie Hock]] & [[Alex Dubilet]], Medford: Polity Press, 2018.

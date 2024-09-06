@@ -30,19 +30,19 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Le Nouvel esprit technologique]]_, Paris: Les belles lettres, 2020.
 
-- _[[Pourquoi pas la philosophie|Pourquoi pas la philosophie ?]]_, Paris: self-published, 1983-1985.
+- _[[Pourquoi pas la philosophie|Pourquoi pas la philosophie ?]]_, Paris: self-published, 1983-5.
     - _[[Pourquoi pas la philosophie#I. Descartes, mission terminée, retour impossible. (April 1983)|I. Descartes, mission terminée, retour impossible. (April 1983)]]_
     - _[[Pourquoi pas la philosophie#II. Les crimes de l’histoire de la philosophie. (October 1983)|II. Les crimes de l’histoire de la philosophie. (October 1983)]]_
     - _[[Pourquoi pas la philosophie#III. Théorie de la décision philosophique. (February 1984)|III. Théorie de la décision philosophique. (February 1984)]]_
-    - _IV: Le philosophe sans qualités_, 1984. (French)
-    - _V: Le mystique, le pratique, l’ordinaire_, 1985. (French)
-    - _VI: Métaphysique du futur_, 1985. (French)
+    - _[[Pourquoi pas la philosophie#IV. Le philosophe sans qualités. (October 1984)|IV. Le philosophe sans qualités. (October 1984)]]_.
+    - _[[Pourquoi pas la philosophie#V. Le mystique, le pratique, l’ordinaire. (February 1985)|V. Le mystique, le pratique, l’ordinaire. (February 1985)]]_.
+    - _[[Pourquoi pas la philosophie#VI. Métaphysique du futur. (October 1985)|VI. Métaphysique du futur. (October 1985)]]_.
 
 - _[[Une biographie de l’homme ordinaire. Des Autorités et des Minorités.]]_, Paris: Aubier, 1985.
 
-- _[[Philosophies de la différence. Introduction critique]]_, Paris: PUF, 1986, 249 pp.
+- _[[Philosophies de la différence. Introduction critique]]_, Paris: PUF, 1986.
 
-- _[[Philosophie et non-philosophie]]_, Liège/Brussels: Mardaga, 1989. (French)
+- _[[Philosophie et non-philosophie]]_, Liège/Brussels: Mardaga, 1989.
 
 - _[[En tant qu’Un. La « non-philosophie » expliquée aux philosophes]]_, Paris: Aubier, 1991.
 
@@ -52,10 +52,9 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Théorie des Etrangers|Théorie des Étrangers. Science des hommes, démocratie, non-psychanalyse]]_, Paris: Kimé, 1995.
 
-- _Principes de la non-philosophie_, Paris: Presses Universitaires de France, 1996. (French)
-    - _Principles of Non-Philosophy_, trans. Nicola Rubczak and Anthony Paul Smith, Bloomsbury Academic, 2013.
+- _[[Principes de la non-philosophie]]_, Paris: Presses Universitaires de France, 1996.
 
-- _L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque_, Stuttgart: Jutta Legueil, 1997. (German)
+- _L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque_, Stuttgart: Jutta Legueil, 1997.
 
 - _Éthique de l’Étranger. Du crime contre l’humanité_, Paris: Kimé, 2000. (French)
     - [_The Victim Question and the Ethical Response_](https://endemictheory.wordpress.com/2021/04/11/translation-of-francois-laruelle-the-victim-question-and-the-ethical-response-from-ethique-de-letranger-2000/), pp. 7-27, trans. Jeremy R Smith. (English)

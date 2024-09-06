@@ -1,2 +1,14 @@
+---
+aliases:
+  - Principles of Non-Philosophy
+---
 >[!info]
->This page is a stub. It may or may not be updated with content.
+>auth. [[François Laruelle]]
+>
+>pub. Paris: PUF, 1996.
+>
+>[[François Laruelle#Philosophie III|Philosophie III]]
+
+# Translations
+
+* _Principles of Non-Philosophy_, trans. [[Nicola Rubczak]] and [[Anthony Paul Smith]], Bloomsbury Academic, 2013.

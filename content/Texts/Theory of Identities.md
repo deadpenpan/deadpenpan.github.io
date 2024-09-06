@@ -10,7 +10,9 @@ aliases:
 >auth. [[François Laruelle]]
 >
 >pub. Paris: PUF, 1992.
+>
+>[[François Laruelle#Philosophie II|Philosophie II]]
 
-## Translations
+# Translations
 
 * _Theory of Identities_, trans. [[Alyosha Edlebi]], New York: Columbia University Press, 2016.
