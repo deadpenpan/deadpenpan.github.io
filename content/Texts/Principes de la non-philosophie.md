@@ -11,4 +11,4 @@ aliases:
 
 # Translations
 
-* _Principles of Non-Philosophy_, trans. [[Nicola Rubczak]] and [[Anthony Paul Smith]], Bloomsbury Academic, 2013.
+* _Principles of Non-Philosophy_, trans. [[Nicola Rubczak]] and [[Anthony Paul Smith|APS]], Bloomsbury Academic, 2013.

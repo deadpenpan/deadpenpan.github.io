@@ -4,7 +4,10 @@ aliases:
 ---
 # Works
 
-Adapted from bibliographies in _La Philosophie non-standard de François Laruelle_ (ed. [[Anne-Françoise Schmid|Anne-Françoise]], Maryse Dennes & John Ó Maiolearca) and _Alien Theory: The Decline of Materialism in the Name of Matter_ (auth. [[Ray Brassier]]).
+Partially adapted from bibliographies in _La Philosophie non-standard de François Laruelle_ (ed. [[Anne-Françoise Schmid|Anne-Françoise]], Maryse Dennes & John Ó Maiolearca) and _Alien Theory: The Decline of Materialism in the Name of Matter_ (auth. [[Ray Brassier]]).
+
+>[!note]
+>Periodization is [[Sylvia Nambiar|my]] own deviation from the standard one, placing some newly published texts according to the level of non-philosophy therein as well as when they might have been written. The phases themselves were initially indicated in the front matter of [[François Laruelle|Laruelle]]'s monographs and specific placements have been superseded more than once. That said, the periodization into phases is really only valid for monographs that were _published_ while [[François Laruelle|Laruelle]] was still actively writing and publishing works. All published works post-[[Tétralogos, un opéra de philosophies]] are either translations of already published texts or old manuscripts that were not published near the time of writing for a litany of reasons.
 
 ## Theses
 
@@ -18,11 +21,11 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Machines textuelles. Déconstruction et libido d'écriture]]_, Paris: Seuil, 1976.
 
-- _[[Le Déclin de l'écriture]]_, Paris: Aubier-Flammarion, 1977.
-
 - _[[Nietzsche contre Heidegger. Thèses pour une politique nietzschéenne.]]_, Paris: Payot, 1977.
 
-- _[[Au-delà du principe de pouvoir]]_ (initially titled _Herméneutique générale_), Paris: Payot, 1978.
+- _[[Le Déclin de l'écriture]]_, Paris: Aubier-Flammarion, 1977.
+
+- _[[Au-delà du principe de pouvoir]]_, Paris: Payot, 1978.
 
 ## Philosophie II
 
@@ -31,11 +34,17 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 - _[[Le Nouvel esprit technologique]]_, Paris: Les belles lettres, 2020.
 
 - _[[Pourquoi pas la philosophie|Pourquoi pas la philosophie ?]]_, Paris: self-published, 1983-5.
-    - _[[Pourquoi pas la philosophie#I. Descartes, mission terminée, retour impossible. (April 1983)|I. Descartes, mission terminée, retour impossible. (April 1983)]]_
-    - _[[Pourquoi pas la philosophie#II. Les crimes de l’histoire de la philosophie. (October 1983)|II. Les crimes de l’histoire de la philosophie. (October 1983)]]_
-    - _[[Pourquoi pas la philosophie#III. Théorie de la décision philosophique. (February 1984)|III. Théorie de la décision philosophique. (February 1984)]]_
+ 
+    - _[[Pourquoi pas la philosophie#I. Descartes, mission terminée, retour impossible. (April 1983)|I. Descartes, mission terminée, retour impossible. (April 1983)]]_.
+    
+    - _[[Pourquoi pas la philosophie#II. Les crimes de l’histoire de la philosophie. (October 1983)|II. Les crimes de l’histoire de la philosophie. (October 1983)]]_.
+    
+    - _[[Pourquoi pas la philosophie#III. Théorie de la décision philosophique. (February 1984)|III. Théorie de la décision philosophique. (February 1984)]]_.
+    
     - _[[Pourquoi pas la philosophie#IV. Le philosophe sans qualités. (October 1984)|IV. Le philosophe sans qualités. (October 1984)]]_.
+    
     - _[[Pourquoi pas la philosophie#V. Le mystique, le pratique, l’ordinaire. (February 1985)|V. Le mystique, le pratique, l’ordinaire. (February 1985)]]_.
+    
     - _[[Pourquoi pas la philosophie#VI. Métaphysique du futur. (October 1985)|VI. Métaphysique du futur. (October 1985)]]_.
 
 - _[[Une biographie de l’homme ordinaire. Des Autorités et des Minorités.]]_, Paris: Aubier, 1985.
@@ -54,35 +63,28 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Principes de la non-philosophie]]_, Paris: Presses Universitaires de France, 1996.
 
-- _[[L’hypothèse non-borgésienne|L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque.]]_, Stuttgart: Jutta Legueil, 1997.
+- _[[L’hypothèse non-borgésienne|L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque.]]_, Stuttgart: Jutta Legueil, 1997 or 2001.
 
 - _[[Éthique de l’Étranger]]_, Paris: Kimé, 2000.
 
-- _Introduction au Non-Marxisme_, Paris: PUF, 2000.
-    - [_Chapter III: Determination-in-the-Last-Instance_](https://speculativeheresy.wordpress.com/2008/07/20/chapter-3-of-laruelles-introduction-to-non-marxism-determination-in-the-last-instance-dli/), pp. 39-55, trans. Taylor Adkins. (English)
-    - _Introduction to Non-Marxism_, trans. Anthony Paul Smith, Minneapolis: Univocal, 2015.
+- _[[Introduction au non-marxisme]]_, Paris: PUF, 2000.
 
 ## Philosophie IV
 
-- _Le Christ futur: une leçon d'hérésie_, Paris: Exils, 2002, 183 pp. (French)
-    - _Future Christ: A Lesson in Heresy_, trans. Anthony Paul Smith, Continuum, 2010, 151 pp, [PDF](http://libgen.rs/book/index.php?md5=2D279913B4A304D3DBA02793E959572E). (English)
+- _[[Le Christ futur|Le Christ futur. Une leçon d'hérésie]]_, Paris: Exils, 2002.
 
-- with Philippe Petit, _L'ultime honneur des intellectuels_, Paris: Textuel, 2003. Interview. (French)
-    - _Intellectuals and Power: The Insurrection of the Victim_, trans. Anthony Paul Smith, Polity, 2015, 155 pp, [ARG](http://aaaaarg.fail/thing/551b619a334fe0337caf174a). (English)
+- with [[Philippe Petite]], _[[L'ultime honneur des intellectuels]]_, Paris: Textuel, 2003.
 
-- _La lutte et l'utopie à la fin des temps philosophiques_, Paris: Kimé, 2004, 204 pp. (French)
-    - _Struggle and Utopia at the End Times of Philosophy_, trans. Drew S. Burk and Anthony Paul Smith, Minneapolis, MN: Univocal, 2012. [PDF](http://libgen.rs/book/index.php?md5=EA260B9CD4A53AA097F18AC740DE9B5E) (English)
+- _[[La lutte et l'utopie à la fin des temps philosophiques]]_, Paris: Kimé, 2004.
 
-- _Mystique non-philosophique à l’usage des contemporains_ (initially announced as _Théorèmes mystiques_), Paris: L'Harmattan, 2007.
-    - [_The World as Mystic-World_](https://endemictheory.wordpress.com/2021/07/11/translation-of-francois-laruelle-the-world-as-mystic-world-in-mystique-non-philosophique-a-lusage-des-contemporains-2007/), pp. 205-8, trans. Jeremy R Smith. (English)
-    - [_Disalienation and Liberation of Heresy, Selections from the text_](https://endemictheory.wordpress.com/2021/05/29/translation-of-francois-laruelle-disalienation-and-liberation-of-heresy-selections-from-mystique-non-philosophique-a-lusage-des-contemporains-2007/), pp. 229-35, trans. [Jeremy R Smith](https://monoskop.org/Jeremy_R_Smith "Jeremy R Smith"). (English)
+- _[[Mystique non-philosophique à l’usage des contemporains]]_, Paris: L'Harmattan, 2007.
 
 ## Philosophie V
 
-- _Introduction aux sciences génériques_, Paris: Petra, 2008. (French)
-    - [_Towards Philosophical Research_](https://endemictheory.wordpress.com/2021/07/10/translation-of-francois-laruelle-towards-philosophical-research-from-introduction-aux-sciences-generiques-2008/), pp. 19-37, trans. Jeremy R Smith. (English)
+- _Introduction aux sciences génériques_, Paris: Petra, 2008.
+    - [_Towards Philosophical Research_](https://endemictheory.wordpress.com/2021/07/10/translation-of-francois-laruelle-towards-philosophical-research-from-introduction-aux-sciences-generiques-2008/), pp. 19-37, trans. Jeremy R Smith.
     - _The Generic as Predicate and Constant: Non-Philosophy and Materialism_, Chapters 2 & 5, trans. Taylor Adkins, in _The Speculative Turn: Continental Materialism and Realism_ eds. Levi Bryant, Nick Srnicek and Graham Harman)
-    - [_Democracy of-the-Last-Instance Within the Sciences: General Equivalency and Generic Idempotency_](https://endemictheory.wordpress.com/2021/04/23/translation-of-francois-laruelle-democracy-of-the-last-instance-within-the-sciences-general-equivalency-and-generic-idempotency-from-introduction-aux-sciences-generiques-2008/), pp. 97-104, trans. Jeremy R Smith. (English).
+    - [_Democracy of-the-Last-Instance Within the Sciences: General Equivalency and Generic Idempotency_](https://endemictheory.wordpress.com/2021/04/23/translation-of-francois-laruelle-democracy-of-the-last-instance-within-the-sciences-general-equivalency-and-generic-idempotency-from-introduction-aux-sciences-generiques-2008/), pp. 97-104, trans. Jeremy R Smith.
 
 - _Philosophie non-standard. Générique, quantique, philo-fiction_ (initially titled _Nouveaux principes de la non-philosophie_), Paris: Kimé, 2010. [ARG](https://aaaaarg.fail/thing/592170bd9ff37c4e19cb5ce5) (French)
     - [_The Glossary of the Generic Quantum_](https://endemictheory.wordpress.com/2021/05/30/translation-of-francois-laruelle-what-is-to-be-done-with-philosophy-from-tetralogos-2018/), pp. 51-64, trans. Jeremy R Smith. (English).
@@ -119,7 +121,7 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _From Decision to Heresy: Experiments in Non-Standard Thought_, ed. [[Maya B. Kronic|Robin Mackay]], New York: Sequence Press, 2013.
 
-## Edited by Laruelle
+# Edited by Laruelle
 
 - _Textes pour Emmanuel Levinas_, Paris: Jean-Michel Place, 1980.
 

@@ -9,6 +9,8 @@ aliases:
   - Myself
   - me
   - myself
+  - my
+  - My
 ---
 >[!info]+ Contact
 >

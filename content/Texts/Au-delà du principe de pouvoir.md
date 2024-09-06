@@ -9,6 +9,8 @@ aliases:
 >pub. Paris:  Payot, 1978.
 >
 >Part of [[François Laruelle#Philosophie I|Philosophie I]]
+>
+>initially titled _Herméneutique générale_ (as mentioned in the front matter of both [[Nietzsche contre Heidegger. Thèses pour une politique nietzschéenne.|Nietzsche contre Heidegger]] and [[Le Déclin de l'écriture]]).
 
 # Translations
 

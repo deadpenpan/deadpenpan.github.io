@@ -18,7 +18,7 @@ title: Théorie des Étrangers. Science des hommes, démocratie, non-psychanalys
 
 * _Theory of Strangers: Science of People, Democracy, and Non-Psychoanalysis_, Forthcoming, Edinburgh University Press, trans. [[Jeremy R. Smith|Jeremy]].
 
-* [Programme: Who is the Stranger? A New Idea](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/), trans. [[Jeremy R. Smith]]. 
+* [Programme: Who is the Stranger? A New Idea](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/), pp. 11-9, trans. [[Jeremy R. Smith]]. 
 * [‘Non-Humanism’ and the Critique of Humanist Imagery](https://endemictheory.wordpress.com/2021/01/10/translation-of-francois-laruelle-non-humanism-and-the-critique-of-humanist-imagery/), pp. 105-10, trans. [[Jeremy R. Smith|Jeremy]].
 * [Let Us Transform the Knowledge of Man Rather Than Transform Man](https://endemictheory.wordpress.com/2021/08/30/translation-of-francois-laruelle-let-us-transform-the-knowledge-of-man-rather-than-transform-man-from-theorie-des-etrangers-1995/) , pp. 110-2 trans. [[Jeremy R. Smith|Jeremy]].
 * [[The Body (of) the Stranger as Subjective Body in-last-instance and Organon of the Ego]], pp. 155-8, trans [[Sylvia Nambiar|Sylvia]].
