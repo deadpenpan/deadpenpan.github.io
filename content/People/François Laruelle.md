@@ -54,12 +54,9 @@ Adapted from bibliographies in _La Philosophie non-standard de François Laruel
 
 - _[[Principes de la non-philosophie]]_, Paris: Presses Universitaires de France, 1996.
 
-- _[[L’hypothèse non-borgésienne]]_, Stuttgart: Jutta Legueil, 1997.
+- _[[L’hypothèse non-borgésienne|L’hypothèse non-borgésienne. Essai sur le livre et la bibliothèque.]]_, Stuttgart: Jutta Legueil, 1997.
 
-- _Éthique de l’Étranger. Du crime contre l’humanité_, Paris: Kimé, 2000. (French)
-    - [_The Victim Question and the Ethical Response_](https://endemictheory.wordpress.com/2021/04/11/translation-of-francois-laruelle-the-victim-question-and-the-ethical-response-from-ethique-de-letranger-2000/), pp. 7-27, trans. Jeremy R Smith. (English)
-    - [_The Organon of the Force (of) the Law_](https://endemictheory.wordpress.com/2021/09/03/translation-of-francois-laruelle-the-organon-of-the-force-of-the-law-from-ethique-de-letranger-2000/), (p.327-38, trans. Jeremy R Smith. (English)
-    - _Etica do Estrangiero. Do Crime contra a Humanidade_, trans. Maria Fernanda Oliveira, Bobadela: Portugal Instituto Piaget, 2002. (Portuguese)
+- _[[Éthique de l’Étranger]]_, Paris: Kimé, 2000.
 
 - _Introduction au Non-Marxisme_, Paris: PUF, 2000.
     - [_Chapter III: Determination-in-the-Last-Instance_](https://speculativeheresy.wordpress.com/2008/07/20/chapter-3-of-laruelles-introduction-to-non-marxism-determination-in-the-last-instance-dli/), pp. 39-55, trans. Taylor Adkins. (English)
