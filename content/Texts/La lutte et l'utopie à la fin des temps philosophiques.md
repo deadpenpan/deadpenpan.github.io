@@ -12,4 +12,4 @@ aliases:
 
 # Translations
 
-* _Struggle and Utopia at the End Times of Philosophy_, trans. [[Drew S. Burk]] and [[Anthony Paul Smith|APS]], Minneapolis: Univocal, 2012.
+* _Struggle and Utopia at the End Times of Philosophy_, trans. [[Drew S. Burke]] and [[Anthony Paul Smith|APS]], Minneapolis: Univocal, 2012.

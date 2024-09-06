@@ -15,6 +15,7 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _Économie générale des effets-d’-être_ (2 Volumes), Supervised by Paul Ricoeur, 1975.
 
+
 ## Philosophie I
 
 - _[[Phénomène et différence. Éssai sur l'ontologie de Ravaisson]]_, Paris: Klinskieck, 1971.
@@ -26,6 +27,7 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 - _[[Le Déclin de l'écriture]]_, Paris: Aubier-Flammarion, 1977.
 
 - _[[Au-delà du principe de pouvoir]]_, Paris: Payot, 1978.
+
 
 ## Philosophie II
 
@@ -57,6 +59,9 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _[[Theory of Identities|Théorie des identités. Fractalité généralisée et philosophie artificielle.]]_, Paris: PUF, 1992.
 
+- _[[Le Concept de non-photographie]] / [[Le Concept de non-photographie|The Concept of Non-Photography]]_, trans. [[Maya B. Kronic|Robin Mackay]], Falmouth and New York: Urbanomic and Sequence Press, 2011.
+
+
 ## Philosophie III
 
 - _[[Théorie des Etrangers|Théorie des Étrangers. Science des hommes, démocratie, non-psychanalyse]]_, Paris: Kimé, 1995.
@@ -69,6 +74,7 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _[[Introduction au non-marxisme]]_, Paris: PUF, 2000.
 
+
 ## Philosophie IV
 
 - _[[Le Christ futur|Le Christ futur. Une leçon d'hérésie]]_, Paris: Exils, 2002.
@@ -79,39 +85,24 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _[[Mystique non-philosophique à l’usage des contemporains]]_, Paris: L'Harmattan, 2007.
 
+
 ## Philosophie V
 
-- _Introduction aux sciences génériques_, Paris: Petra, 2008.
-    - [_Towards Philosophical Research_](https://endemictheory.wordpress.com/2021/07/10/translation-of-francois-laruelle-towards-philosophical-research-from-introduction-aux-sciences-generiques-2008/), pp. 19-37, trans. Jeremy R Smith.
-    - _The Generic as Predicate and Constant: Non-Philosophy and Materialism_, Chapters 2 & 5, trans. Taylor Adkins, in _The Speculative Turn: Continental Materialism and Realism_ eds. Levi Bryant, Nick Srnicek and Graham Harman)
-    - [_Democracy of-the-Last-Instance Within the Sciences: General Equivalency and Generic Idempotency_](https://endemictheory.wordpress.com/2021/04/23/translation-of-francois-laruelle-democracy-of-the-last-instance-within-the-sciences-general-equivalency-and-generic-idempotency-from-introduction-aux-sciences-generiques-2008/), pp. 97-104, trans. Jeremy R Smith.
+- _[[Introduction aux sciences génériques]]_, Paris: Petra, 2008.
 
-- _Philosophie non-standard. Générique, quantique, philo-fiction_ (initially titled _Nouveaux principes de la non-philosophie_), Paris: Kimé, 2010. [ARG](https://aaaaarg.fail/thing/592170bd9ff37c4e19cb5ce5) (French)
-    - [_The Glossary of the Generic Quantum_](https://endemictheory.wordpress.com/2021/05/30/translation-of-francois-laruelle-what-is-to-be-done-with-philosophy-from-tetralogos-2018/), pp. 51-64, trans. Jeremy R Smith. (English).
-    - [_Philo-Fiction_](https://endemictheory.wordpress.com/2021/06/29/translation-of-francois-laruelle-the-non-philosophical-or-super-philosophical-rebellion-of-music-in-tetralogos-2018/), pp. 91-4, trans. Jeremy R Smith. (English).
-    - [_From Fiction to Philo-Fiction and Science-Phiction_](https://endemictheory.wordpress.com/2021/07/30/translation-of-francois-laruelle-towards-a-treatise-of-speculative-music-from-tetralogos-2018/), selections, p.488-93, 497-9, trans. Jeremy R Smith. (English).
-    - _Non-standard Philosophy_, trans. Taylor Adkins and Rocco Gangle, 2022. (English)
+- _[[Théologie clandestine pour les sans-religion. Une confession de foi du non-philosophe]]_, Paris: Kimé, 2019.
 
-- _Le Concept de non-photographie / The Concept of Non-Photography_, trans. Robin Mackay, Falmouth and New York: Urbanomic and Sequence Press, 2011.
-    - _Koncept nefotografie_, trans. Čestmír Pelikán, Fotograf 07, 2012.
+- _[[Philosophie non-standard. Générique, quantique, philo-fiction]]_, Paris: Kimé, 2010.
 
-- _Théorie générale des victimes_, Paris: Fayard, 2011.
-    - _General Theory of Victims_, trans. Alex Dubilet and Jessie Hock, New York: Polity, 2015.
+- _[[Théorie générale des victimes]]_, Paris: Fayard, 2011.
 
-- _Anti-Badiou: sur l'introduction du maoïsme dans la philosophie_, Paris: Kimé, 2011. (French)
-    - _Anti-Badiou: On the Introduction of Maoism Into Philosophy_, trans. [[Maya B. Kronic|Robin Mackay]], London/New York: Bloomsbury Academic, 2013.
+- _[[Anti-Badiou|Anti-Badiou. Sur l'introduction du maoïsme dans la philosophie.]]_, Paris: Kimé, 2011.
 
-- _Photo-fiction, une esthétique non-standard / Photo-Fiction, a Non-Standard Aesthetics_, trans. Drew S. Burke, Minneapolis, MN: Univocal, 2012.
+- _[[Photo-fiction|Photo-fiction, une esthétique non-standard]] / [[Photo-fiction|Photo-Fiction: A Non-Standard Aesthetics]]_, trans. [[Drew S. Burke]], Minneapolis: Univocal, 2012.
 
-- _Christo-fiction: les ruines d'Athènes et de Jérusalem_, Fayard, 2013, 368 pp. (French)
-    - _Christo-Fiction: the Ruins of Athens and Jerusalem_, trans. [[Maya B. Kronic|Robin Mackay]], Columbia University Press, 2015.
+- _[[Christo-fiction.|Christo-fiction. Les ruines d'Athènes et de Jérusalem.]]_, Paris: Fayard, 2013.
 
-- _En dernière humanité. La nouvelle science écologique_, Paris: Cerf., 2015. (French)
-    - _The Last Humanity: The New Ecological Science_, trans. Anthony Paul Smith, Bloomsbury, 2020.
-
-- _Théologie clandestine pour les sans-religion : Une confession de foi du non-philosophe_, Paris: Kimé, 2019.
-    - [_Invocation_](https://endemictheory.wordpress.com/2021/12/06/translation-of-francois-laruelle-invocation-from-theologie-clandestine-pour-les-sans-religion/), pp. 7-9 (omitted from the Sackin-Poll trans.), trans. Jeremy R. Smith. (English)
-    - _Clandestine Theology: A Non-Philosopher's Confession of Faith_, trans. Andrew Sackin-Poll, Bloomsbury, 2020.
+- _[[En dernière humanité. La nouvelle science écologique]]_, Paris: Cerf., 2015.
 
 - _[[Tétralogos, un opéra de philosophies]]_, Paris: Cerf., 2019.
 
@@ -129,14 +120,14 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _Du mode d’existence des objets techniques_, auth. [[Gilbert Simondon]], Paris: Aubier, coll. « RES, l’invention philosophique », 1989.
 
-- _L’individuation psychique et collective_, auth. [[Gilbert Simondon]], Paris Aubier, coll. « RES, l’invention philosophique », 1989.
+- _L’individuation psychique et collective_, auth. [[Gilbert Simondon]], Paris: Aubier, coll. « RES, l’invention philosophique », 1989.
 
 - _La non-philosophie des contemporains_, Paris: Kimé, 1995.
 
 - _Discipline hérétique_, Paris: Kimé, 1998.
 
 - _Dictionnaire de la non-philosophie_, with Tony Brachet, Gilbert Kieffer, Laurent Leroy, Daniel Nicolet, [[Anne-Françoise Schmid|Anne-Françoise]], [[Serge Valdinoci]], Paris: Kimé, 1998.
-    - _Dictionary of Non-Philosophy_, trans. Taylor Adkins, Minneapolis, MN: Univocal, 2013.
+    - _Dictionary of Non-Philosophy_, trans. [[Taylor Adkins|Taylor]], Minneapolis, MN: Univocal, 2013.
 
 - _Homo ex machina_, Paris: L'Harmattan, 2005.
 
