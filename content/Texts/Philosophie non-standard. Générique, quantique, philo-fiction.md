@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Non-Satndard Philosophy
+  - Non-Standard Philosophy
   - Nouveaux principes de la non-philosophie
+  - Philosophie non-standard
 ---
 >[!info]
 >auth. [[François Laruelle]]
