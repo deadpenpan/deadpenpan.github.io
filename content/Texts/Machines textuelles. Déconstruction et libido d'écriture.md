@@ -8,7 +8,7 @@ aliases:
 >
 >pub. Paris: Seuil, 1976.
 >
->Part of [[François Laruelle#Philosophie I|Philosophie I]]
+>[[François Laruelle#Philosophie I|Philosophie I]]
 # Translations
 
 - [_Introduction_](https://speculativeheresy.wordpress.com/2013/09/01/translation-of-f-laruelles-introduction-to-textual-machines/), pp. 9-19, trans. [[Taylor Adkins|Taylor]].

@@ -8,7 +8,7 @@ aliases:
 >
 >pub. Paris:  Payot, 1977.
 >
->Part of [[François Laruelle#Philosophie I|Philosophie I]]
+>[[François Laruelle#Philosophie I|Philosophie I]]
 
 # Translations
 

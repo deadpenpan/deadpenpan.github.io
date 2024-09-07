@@ -3,7 +3,7 @@
 >
 >pub. Paris: Aubier-Flammarion, 1977.
 >
->Part of [[François Laruelle#Philosophie I|Philosophie I]]
+>[[François Laruelle#Philosophie I|Philosophie I]]
 # Translations
 
 * [“Positions”](https://endemictheory.wordpress.com/2021/01/29/translation-of-francois-laruelle-positions-from-le-declin-de-lecriture/), pp. 5-15, trans. [[Jeremy R. Smith|Jeremy]].

@@ -1,0 +1,17 @@
+---
+title: "Review: \rUne Incertaine réalité. Le monde quantique, la connaissance et la durée. by Bernard d’Espagnat"
+aliases:
+  - Review of Une Incertaine réalité.
+---
+>![info]
+>auth. [[François Laruelle]]
+>
+>pub. Revue de synthèse, S IV, No. 2, Avril-Juin 1987.
+
+Bernard d’Espagnat, _Une Incertaine réalité. Le monde quantique, la connaissance et la durée.[^1] Paris, Gauthier-Villars, 1985. 15.5 x 24, X + 310 p., bibliogr., index.
+
+B. Espagnat's theses are now well known and have not fundamentally varied since _À la recherche du réel_. Before succinctly recalling them, one must mark that, far from all epistemological artefact, he poses a specifically philosophical question to the totality of physics, but as a function of the quantum principle and the difficulties introduced by “Bell’s inequalities”: that of the _reality_ that science is supposed to access. This question is “transcendental” by definition in the large and authentic sense of this word and does not necessarily imply a response in terms of “transcendental realism” which the author precisely critiques here (p. 85 and later). The philosophers will recognize him for calling them then to a more important task (rethinking the real, cause, and time) than epistemological descriptions and conceptualizations. His response is nuanced and perfect sometimes flowing more from a simple registration of contradictions between macroscopic physics, relativistic and quantum, than from the promotion of a really new problematic. The stake is the realism of physics—the Author maintains it and we should credit him on this point for a “phenomenological” probity and a fidelity to the ultimate requisites of science. But classical and relativistic realism is attacked, by the experimental verification of Bell’s inequalities, on its very foundation which is the “locality” of phenomena and events in space-time. From there, before the impossibility despite everything of abandoning reality “in itself” and of veering to phenomenalism, within a “non-local realism”, between a reality independent of man and its reduction to phenomena required by science and implicated in its techno-theoretic operations. The Author catalogs the impossible attempts at the conciliation of unitary realism and the givens of microphysics. He notes some more recent developments (theories of irreversibility and complexity) which suggest the impossibility of escaping the order of phenomena.
+
+Philosophers will appreciate the confidence that the Author places in them very regularly, as well as their efforts for liberating the real or Being from operatory schemes of objects and from equations, and retrieving thus, in a quasi-Kantian manner, a sense and site for liberty, causality, consciousness, art, etc. But they will ask how it is possible to sunder the real thus into two and to render it “uncertain”; which difference or scission is entailed here, and what operates it: science itself become transcendental subject? A subject that is sometimes physicist sometimes philosopher _ex machina_, etc.? It remains to clear away the author's “spontaneous philosophy”.
+
+[^1]{trans.}: _Reality and the Physicist: Knowledge, duration and the quantum world,_ trans. J.C. Whitehouse & Bernard d’Espagnat, Cambridge University Press, 1989.

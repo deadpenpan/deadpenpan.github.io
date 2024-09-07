@@ -9,13 +9,16 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 >[!note] Note on the Periodization
 >The periodization is [[Sylvia Nambiar|my]] own deviation from the standard one (i.e., the most recently published one, found in [[Philosophie non-standard. Générique, quantique, philo-fiction|Philosophie non-standard]], updated to include everything published after that as well as the omissions — notably, [[Mystique non-philosophique à l’usage des contemporains]]), placing some newly published texts according to the level of non-philosophy therein as well as when they might have been written. The phases themselves were initially indicated in the front matter of [[François Laruelle|Laruelle]]'s monographs and specific placements have been superseded more than once. That said, the periodization into phases is really only valid for monographs that were _published_ while [[François Laruelle|Laruelle]] was still actively writing and publishing works. All published works post-[[Tétralogos, un opéra de philosophies]] are either translations of already published texts or old manuscripts that were not published near the time of writing for a litany of reasons. The phases are not as discrete as one might think either and, in the context of [[François Laruelle|Laruelle]]'s larger but unseen complete body of work, start to crumble under their own weight.
 >
->In sum, otherwise unperiodized books are placed wherever I think is right. [[Sylvia Nambiar|I]] am less intersted in historiography than in the complexity and elaboration of the non-philosophical apparatus.
+>In sum, otherwise unperiodized books are placed wherever I think is right. [[Sylvia Nambiar|I]] am less interested in historiography than in the complexity and elaboration of the non-philosophical apparatus (even if the two are not mutually exclusive).
+>>[!quote]
+>>As for us, it is time to sound the alarm and to clarify an ambiguous situation. We hesitate between two modes of classification grounded in the style of our object, a corpuscular mode earlier and—given the final impossibility of maintaining this corpuscular distinction between stages or eras—an undulatory mode now. Each of non-philosophy’s works contains all of this in an indivisible or “holistic” way. But even the division into stages or steps serves to mark doses or proportions, nuances and accents that should not be dogmatically isolated. Non-philosophy is a system of stages as much as of phases, of particles as much as of flows or waves. It is risky to prefer the classification by steps or stages and to fail to notice the waves that sweep them away and render every classification undecidable.
+>>-[[François Laruelle|Laruelle]], "Retrospection (2014)", Preface to the English Edition of [[Theory of Identities|Theory of Identities]]
 
 ## Theses
 
 - _Les données immédiates de la manifestation. Essai sur Ravaisson_, Doctoral Thesis (Doctorat de 3è cycle), Supervised by Clémence Ramnoux, Paris X, 1969. (Revised and published as _[[Phénomène et différence. Éssai sur l'ontologie de Ravaisson|Phénomène et différence]]_, 1971).
 
-- _Économie générale des effets-d’-être_ (2 Volumes), Supervised by Paul Ricoeur, 1975.
+- _[[Économie générale des effets-d’-être]]_ (2 Volumes), Supervised by Paul Ricoeur, 1975.
 
 
 ## Philosophie I
@@ -108,17 +111,19 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _[[Tétralogos, un opéra de philosophies]]_, Paris: Cerf., 2019.
 
+
 ## Translated Collections of Essays by Laruelle
 
 - _The Non-Philosophy Project: Essays by François Laruelle_, ed. Alkon Gabriel & Gunjevic Boris, New York: Telos Press Publishing, 2012.
 
 - _From Decision to Heresy: Experiments in Non-Standard Thought_, ed. [[Maya B. Kronic|Robin Mackay]], New York: Sequence Press, 2013.
 
+
 # Edited by Laruelle
 
 - _Textes pour Emmanuel Levinas_, Paris: Jean-Michel Place, 1980.
 
-- _La Décision philosophique_, 9 issues, Paris: éditions Osiris, 1987-89.
+- _[[La Décision philosophique]]_, 10 issues, Paris: éditions Osiris, 1987-9.
 
 - _Du mode d’existence des objets techniques_, auth. [[Gilbert Simondon]], Paris: Aubier, coll. « RES, l’invention philosophique », 1989.
 
@@ -128,8 +133,7 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _Discipline hérétique_, Paris: Kimé, 1998.
 
-- _Dictionnaire de la non-philosophie_, with Tony Brachet, Gilbert Kieffer, Laurent Leroy, Daniel Nicolet, [[Anne-Françoise Schmid|Anne-Françoise]], [[Serge Valdinoci]], Paris: Kimé, 1998.
-    - _Dictionary of Non-Philosophy_, trans. [[Taylor Adkins|Taylor]], Minneapolis, MN: Univocal, 2013.
+- _[[Dictionnaire de la non-philosophie]]_, with Tony Brachet, Gilbert Kieffer, Laurent Leroy, Daniel Nicolet, [[Anne-Françoise Schmid|Anne-Françoise]], [[Serge Valdinoci]], Paris: Kimé, 1998.
 
 - _Homo ex machina_, Paris: L'Harmattan, 2005.
 

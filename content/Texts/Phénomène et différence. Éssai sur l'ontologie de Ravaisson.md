@@ -8,7 +8,7 @@ aliases:
 >
 >pub. Paris: Klinskieck, 1971
 >
->Part of [[François Laruelle#Philosophie I|Philosophie I]]
+>[[François Laruelle#Philosophie I|Philosophie I]]
 # Dedication
 
 >[!quote]
