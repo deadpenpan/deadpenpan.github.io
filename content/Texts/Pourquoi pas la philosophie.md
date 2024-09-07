@@ -3,8 +3,6 @@ title: Pourquoi pas la philosophie ?
 aliases:
   - Pourquoi pas la philosophie
   - Pplp
-  - Pplp?
-  - Pourquoi pas la philosophie ?
 ---
 Notebooks written by [[François Laruelle]]. Self-published 1983-1985.
 # Issues

@@ -11,8 +11,7 @@ aliases:
 >
 >[[François Laruelle#Philosophie V|Philosophie V]]
 >
->Initially titled _Nouveaux principes de la non-philosophie_ in the introduction to [[Introduction aux sciences génériques]].
-
+>Initially titled _Nouveaux principes de la non-philosophie_ in the [[Introduction|introduction]] to [[Introduction aux sciences génériques]].
 
 # Translations
 
