@@ -3,7 +3,7 @@ title: "Review: \rUne Incertaine réalité. Le monde quantique, la connaissance 
 aliases:
   - Review of Une Incertaine réalité.
 ---
->![info]
+>[!info]
 >auth. [[François Laruelle]]
 >
 >pub. Revue de synthèse, S IV, No. 2, Avril-Juin 1987.
