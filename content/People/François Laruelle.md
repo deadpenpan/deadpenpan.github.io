@@ -107,17 +107,19 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 
 - _[[Christo-fiction.|Christo-fiction. Les ruines d'Athènes et de Jérusalem.]]_, Paris: Fayard, 2013.
 
+
+## Philosophie VI [^1]
+
 - _[[En dernière humanité. La nouvelle science écologique]]_, Paris: Cerf., 2015.
 
 - _[[Tétralogos, un opéra de philosophies]]_, Paris: Cerf., 2019.
 
 
-## Translated Collections of Essays by Laruelle
+# Translated Collections of Essays Written by Laruelle
 
 - _The Non-Philosophy Project: Essays by François Laruelle_, ed. Alkon Gabriel & Gunjevic Boris, New York: Telos Press Publishing, 2012.
 
 - _From Decision to Heresy: Experiments in Non-Standard Thought_, ed. [[Maya B. Kronic|Robin Mackay]], New York: Sequence Press, 2013.
-
 
 # Edited by Laruelle
 
@@ -138,3 +140,8 @@ Partially adapted from bibliographies in _La Philosophie non-standard de Franç
 - _Homo ex machina_, Paris: L'Harmattan, 2005.
 
 - _Fabriques de l’insécurité_, Paris: L'Harmattan, 2007.
+
+
+
+
+[^1]: While "Philosophie VI" is not used by anyone, [[Sylvia Nambiar|I]] think that, as long as we're bothering with the phases, [[En dernière humanité. La nouvelle science écologique]] and [[Tétralogos, un opéra de philosophies]] occupy their own place.
