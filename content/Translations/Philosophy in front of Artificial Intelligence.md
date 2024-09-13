@@ -2,7 +2,7 @@
 >[!info]+
  >La philosophie devant l'Intelligence artificielle, Le Cahier (Collège international de philosophie), No. 3 (mars 1987), 
  >
- >auth. [[François Laruelle]], trans. [[Sylvia Nambiar]]
+ >auth. [[François Laruelle]], trans. [[Sylvia]].
  
 >[!note]+ Sylvia's Note
 >A modified version of this short text appears in _[[Theory of Identities|Théorie des identities. Fractalité généralisée et philosophie artificielle]]_, Paris: PUF, 1992; _[[Theory of Identities]]_, trans. [[Alyosha Edlebi]], New York: Columbia University Press, 2016.

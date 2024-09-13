@@ -5,21 +5,21 @@ aliases:
 title: The Body (of) the Stranger
 ---
 >[!info]+
+>auth. [[François Laruelle]], trans. [[Sylvia Nambiar]]
+>
 >« Le corps (de) l'Etranger comme corps subjectif en-dernière-ins­tance et organon de l'Ego »
 > [[Théorie des Etrangers]], Paris: Kimé, 1995, pp. 155-8
-> 
->auth. [[François Laruelle]], trans. [[Sylvia Nambiar]]
 
 >[!note]+ Sylvia's Note
 >Several sections of _[[Théorie des Etrangers]]_ have been translated by [[Jeremy R. Smith|Jeremy]] on his blog (https://endemictheory.wordpress.com)
 >	
->[“Programme: Who is the Stranger? A New Idea” (p.11-19)](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/)  
->[“‘Non-Humanism’ and the Critique of Humanist Imagery” (p.105-110)](https://endemictheory.wordpress.com/2021/01/10/translation-of-francois-laruelle-non-humanism-and-the-critique-of-humanist-imagery/)  
->“[Let Us Transform the Knowledge of Man Rather Than Transform Man” (p.110-112)](https://endemictheory.wordpress.com/2021/08/30/translation-of-francois-laruelle-let-us-transform-the-knowledge-of-man-rather-than-transform-man-from-theorie-des-etrangers-1995/)  
->[“The Stranger as Void, Law, and _Multitudo Transcendentalis_: On the Concept of ‘Human Multitudes'” (p.159-163)](https://endemictheory.wordpress.com/2021/04/09/translation-of-francois-laruelle-the-stranger-as-void-law-and-multitudo-transcendentalis-from-theorie-des-etrangers-1995/)  
->[“The Non-Analytic Generalization of Psychoanalysis: The _Mathesis Transcendentalis_ of the Unconscious” (p.177-183)](https://endemictheory.wordpress.com/2023/07/04/translation-of-francois-laruelle-the-non-analytic-generalization-of-psychoanalysis-the-mathesis-transcendentalis-of-the-unconscious-from-theorie-des-etrangers-1995/)  
->[“The Forgetting of the Real or the Joui” (p.183-201)](https://endemictheory.wordpress.com/2021/07/03/translation-of-francois-laruelle-the-forgetting-of-the-real-or-the-joui-from-theorie-des-etrangers-1995/)  
->[“Which One Resists? Indifference and Resistance” (p.216-219)](https://endemictheory.wordpress.com/2022/10/18/translation-of-francois-laruelle-which-one-resists-indifference-and-resistance-from-theorie-des-etrangers-1995/)
+>* [Programme: Who is the Stranger? A New Idea](https://endemictheory.wordpress.com/2021/05/16/translation-of-francois-laruelle-who-is-the-stranger-a-new-idea-from-theorie-des-etrangers-1995/), pp. 11-9, trans. [[Jeremy R. Smith|Jeremy]].
+>* [‘Non-Humanism’ and the Critique of Humanist Imagery](https://endemictheory.wordpress.com/2021/01/10/translation-of-francois-laruelle-non-humanism-and-the-critique-of-humanist-imagery/), pp. 105-10, trans. [[Jeremy R. Smith|Jeremy]].
+>* [Let Us Transform the Knowledge of Man Rather Than Transform Man](https://endemictheory.wordpress.com/2021/08/30/translation-of-francois-laruelle-let-us-transform-the-knowledge-of-man-rather-than-transform-man-from-theorie-des-etrangers-1995/) , pp. 110-2 trans. [[Jeremy R. Smith|Jeremy]].
+>* [The Stranger as Void, Law, and _Multitudo Transcendentalis_: On the Concept of ‘Human Multitudes'](https://endemictheory.wordpress.com/2021/04/09/translation-of-francois-laruelle-the-stranger-as-void-law-and-multitudo-transcendentalis-from-theorie-des-etrangers-1995/), pp. 159-63, trans. [[Jeremy R. Smith|Jeremy]].   
+>* [The Non-Analytic Generalization of Psychoanalysis: The _Mathesis Transcendentalis_ of the Unconscious](https://endemictheory.wordpress.com/2023/07/04/translation-of-francois-laruelle-the-non-analytic-generalization-of-psychoanalysis-the-mathesis-transcendentalis-of-the-unconscious-from-theorie-des-etrangers-1995/), pp, 177-83, trans. [[Jeremy R. Smith|Jeremy]].   
+>* [The Forgetting of the Real or the Joui](https://endemictheory.wordpress.com/2021/07/03/translation-of-francois-laruelle-the-forgetting-of-the-real-or-the-joui-from-theorie-des-etrangers-1995/), pp. 183-201, trans. [[Jeremy R. Smith|Jeremy]].   
+>* [Which One Resists? Indifference and Resistance](https://endemictheory.wordpress.com/2022/10/18/translation-of-francois-laruelle-which-one-resists-indifference-and-resistance-from-theorie-des-etrangers-1995/), pp. 216-9, trans. [[Jeremy R. Smith|Jeremy]]. 
 >
 >A translation of the entire monograph, [[Théorie des Etrangers|Theory of Strangers]], by [[Jeremy R. Smith|Jeremy]] is also forthcoming.
 

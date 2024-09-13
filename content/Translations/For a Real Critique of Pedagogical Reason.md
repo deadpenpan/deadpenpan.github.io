@@ -3,7 +3,7 @@ draft: true
 ---
 
 >[!info]
->auth. [[François Laruelle]]
+>auth. [[François Laruelle]], trans. [[Sylvia Nambiar|Sylvia]]
 >
 >pub. Le Cahier (Collège international de philosophie), No. 5 (avril 1988), pp. 83-6.
   

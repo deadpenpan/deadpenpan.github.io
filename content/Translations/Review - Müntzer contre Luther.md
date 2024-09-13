@@ -2,7 +2,7 @@
 title: "Review: Müntzer contre Luther. Le droit divin contre l'absolutisme princier by Marianne Schaub."
 ---
 >[!info]
->auth. [[François Laruelle]]
+>auth. [[François Laruelle]], trans. [[Sylvia]].
 >
 >pub. Revue de synthèse, S IV, No. 2, Avril-Juin 1987.
 

@@ -2,5 +2,6 @@
 aliases:
   - Jeremy
 ---
+# Blog
 
-Check out https://endemictheory.wordpress.com
+https://endemictheory.wordpress.com

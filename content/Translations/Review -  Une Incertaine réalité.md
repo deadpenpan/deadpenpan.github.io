@@ -14,4 +14,4 @@ B. Espagnat's theses are now well known and have not fundamentally varied since 
 
 Philosophers will appreciate the confidence that the Author places in them very regularly, as well as their efforts for liberating the real or Being from operatory schemes of objects and from equations, and retrieving thus, in a quasi-Kantian manner, a sense and site for liberty, causality, consciousness, art, etc. But they will ask how it is possible to sunder the real thus into two and to render it “uncertain”; which difference or scission is entailed here, and what operates it: science itself become transcendental subject? A subject that is sometimes physicist sometimes philosopher _ex machina_, etc.? It remains to clear away the author's “spontaneous philosophy”.
 
-[^1] _Reality and the Physicist: Knowledge, duration and the quantum world,_ trans. J.C. Whitehouse & Bernard d’Espagnat, Cambridge University Press, 1989. — Trans.
+[^1]: _Reality and the Physicist: Knowledge, duration and the quantum world,_ trans. J.C. Whitehouse & Bernard d’Espagnat, Cambridge University Press, 1989. — Trans.

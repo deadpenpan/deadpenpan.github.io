@@ -4,7 +4,7 @@ draft: true
 ---
 
 >[!info]
->auth. [[François Laruelle]]
+>auth. [[François Laruelle]], trans. Sylvia.
 >
 >pub. Encyclopédie philosophique universelle, Vol 1: L'Univers philosophique, 1989, pp. 71-80.
 

@@ -2,7 +2,7 @@
 draft: true
 ---
 >[!info]
->auth. [[François Laruelle]]
+>auth. [[François Laruelle]], trans. [[Sylvia]].
 >
 >pub. Le Cahier (Collège international de philosophie), No. 1 (octobre 1985), pp. 119-29.
 

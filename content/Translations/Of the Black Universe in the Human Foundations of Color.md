@@ -1,5 +1,5 @@
 >[!info]
->auth. [[François Laruelle]]
+>auth. [[François Laruelle]], trans. [[Sylvia Nambiar|Sylvia]].
 >
 >pub. [[La Décision philosophique#5. (Revue)|La Décision philosophique 5]], April 1988, Paris: Osiris, pp. 107-12.
 # I.
