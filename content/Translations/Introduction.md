@@ -35,4 +35,4 @@ Chapter V makes precise several uses and functions of the generic within philoso
 
 This essay, which owes as much information as it does suggestions to [[Anne-Françoise Schmid]], is destined to scientists just as much as it is to philosophers since it presents a new, non-epistemological but in no way anti-epistemological, idea of their possible relations. It calls the scientists to use philosophy otherwise than ideologically and only within its oldest cliches, and the philosophers to abandon “sufficiency” in principle that structures their thought. But it is also a preface to _Nouveaux Principes de la non-philosophie_[^1] that will present this under the form of a science of philosophy.
 
-[^1] Eventually published two years later as _[[Philosophie non-standard. Générique, quantique, philo-fiction]]_, Paris, Kimé, 2010 — Trans.
+[^1]: Eventually published two years later as _[[Philosophie non-standard. Générique, quantique, philo-fiction]]_, Paris, Kimé, 2010 — Trans.
