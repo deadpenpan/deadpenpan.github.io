@@ -80,7 +80,7 @@ Black is without opposite: even light which attempts to transform it into its op
 
 The essence of colors is not colored: it is the black universe.
 
-Metaphysical white is a simple discoloration, the prismatic or indifferent unity of colors. Phenomenal black is indifferent to colors because it is their ultimate tenor in reality, what prevents their definitive dissolution in the mixtures of light.
+Metaphysical white is a simple discoloration, the prismatic or indifferent unity of colors. Phenomenal black is indifferent to colors because it is their ultimate reality content, what prevents their definitive dissolution in the mixtures of light.
 
 Philosophy, and painting sometimes, treat black and white like contraries, colors as opposites; they mix them under the authority of light as the supreme mixture.
 
@@ -102,7 +102,7 @@ Philosophical technology was mimetically withdrawn from the World, for reflectin
 
 We still postulate that reality is given to us by the paradigm of the World. We commit the inhumane amphibology which confuses the World and the Universe. We believe that reality is horizon and light, opening and flash, whereas it is rather the posture of an opaque non-relation (to) light. At the moment of exploring the uni-versal dimension of the cosmic, we remain prisoners of cosmo-logical difference. Our philosophers are babies afraid of the Dark.
 
-Philosophy is a thought by generalized “black box”, they attempt to embox black in light and repel it to the fund of the caverns, but the cosmo-logical generalization of black does not save it, on the contrary, of its status as attribute. Black alone is subject and can render manifest the philosophical emboxing of concepts.
+Philosophy is a thought by generalized “black box”, they attempt to box-up black in light and repel it to the fund of the caverns, but the cosmo-logical generalization of black does not save it, on the contrary, of its status as attribute. Black alone is subject and can render manifest the philosophical boxing-up of concepts.
 
 Think not at first technology: rocket and its payload. Gaze rather, as in the background of a closed eye, in the opacity of thought by which, making up body without distance with it, the rocket crosses infinite distances. Think according to the knowledge which directs it as in a dream, heavier and more transparent than the unlimited night where it nevertheless penetrates a silent thunder. Think at first science.
 
