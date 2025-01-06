@@ -84,7 +84,7 @@ Metaphysical white is a simple discoloration, the prismatic or indifferent unity
 
 Philosophy, and painting sometimes, treat black and white like contraries, colors as opposites; they mix them under the authority of light as the supreme mixture.
 
-The human science of colors is founded on the black called “universe”. It thinks together man, the Universe, and the theories of colors – and their tenor in Black which is their common reality, but of the last instance only.
+The human science of colors is founded on the black called “universe”. It thinks together man, the Universe, and the theories of colors – and their Black content which is their common reality, but of the last instance only.
 
 A human science of colors makes of the black universe the real or immanent requisite of their physics. Black is the very posture of science and of its "relation" to colors.
 
