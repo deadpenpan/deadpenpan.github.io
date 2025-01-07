@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "😈🥱💀🙂‍↕️",
+    pageTitle: "one-in.one",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Gelasio",
-        body: "Hind Guntur Medium",
+        body: "EB Garamond",
         code: "Tinos",
       },
       colors: {
