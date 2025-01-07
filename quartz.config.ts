@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Gelasio",
         body: "EB Garamond",
-        code: "Tinos",
+        code: "EB Garamond",
       },
       colors: {
         lightMode: {
