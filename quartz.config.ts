@@ -20,7 +20,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Gelasio",
+        header: "Doto",
         body: "EB Garamond",
         code: "EB Garamond",
       },
