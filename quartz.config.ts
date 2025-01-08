@@ -20,9 +20,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "EB Garamond",
-        body: "Bellefair",
-        code: "Alegreya",
+        header: "Sanchez",
+        body: "Quattrocento",
+        code: "Quattrocento",
       },
       colors: {
         lightMode: {

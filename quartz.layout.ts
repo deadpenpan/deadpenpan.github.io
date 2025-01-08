@@ -14,7 +14,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs({
 		spacerSymbol: ">",
-		rootName: "one_in.one",
+		rootName: "one-in.one",
 		resolveFrontmatterTitle: true,
 		hideOnRoot: true,
   		showCurrentPage: true,
@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({title: "Sitemap",
+    Component.DesktopOnly(Component.Explorer({title: "Directory",
 		folderClickBehavior: "collapse",
 		folderDefaultState: "collapsed",
 		useSavedState: true,
@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    Component.DesktopOnly(Component.RecentNotes({title: "Recently Updated Pages", limit: 3})),
+    Component.DesktopOnly(Component.RecentNotes({title: "Recently Updated", limit: 3})),
   ],
 }
 
@@ -58,6 +58,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
 	Component.Graph(),
-	Component.RecentNotes({title: "Recently Updated Pages"}),
+	Component.RecentNotes({title: "Recently Updated"}),
 	],
 }
