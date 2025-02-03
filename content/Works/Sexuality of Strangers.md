@@ -4,7 +4,7 @@ title: "Talk: Sexuality of Strangers"
 >[!info]
 >auth. [[Sylvia Nambiar|Sylvia]]
 >
->Delivered on 24 February 2024 at the Acts of Reading Symposium at the University of Tulsa
+>Delivered on 24 February 2024 at the _Acts of Reading: Non-Philosophy and the Humanities_ Symposium at the University of Tulsa
 >
 >[pdf](https://www.academia.edu/115530979/Sexuality_of_Strangers?source=swp_share)
 
