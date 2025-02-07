@@ -1,12 +1,18 @@
 ---
 title: "Theory of the Hostage: The Three Concepts of the Hostage"
-draft: true
+draft: false
 ---
 >[!info]+ 
 >« Théorie de l'otage, les trois concepts de l'otage »,
 >
 >auth. [[François Laruelle]], trans. [[Sylvia Nambiar|Sylvia]]
 
+>[!note]+ Sylvia's Note
+>[[Jeremy R. Smith|Jeremy]] found this text [[https://www.scribd.com/document/84373691/Theorie-de-l-otage-les-3-concepts-de-l-otage-par-Francois-Laruelle|online]] and, while it was uploaded on 7 March 2025 (with no other supplementary information provided), it seems to have been composed some time in the early to mid '80s.
+>
+>Although evidently written at the level of [[François Laruelle#Philosophie II|Philosophy II]], _Theory of the Hostage_ touches upon themes (with similar treatments even) found in later texts like [[Éthique de l’Étranger]], [[L'ultime honneur des intellectuels]], [[Philosophie non-standard. Générique, quantique, philo-fiction|Philosophie non-standard]], and [[Théorie générale des victimes]].
+>
+>It is also very clearly a direct precursor to 2008's [[https://endemictheory.wordpress.com/2021/04/29/translation-of-francois-laruelle-towards-a-non-political-science-of-power-2008/|Vers une science non-politique du pouvoir]] which [[Jeremy R. Smith|Jeremy]] has translated.
 # Who is the Hostage? A Search in Identity
 
 We distinguish three experiences of the state of hostage: hostage (of) itself, hostage of the Other or of others, and finally, at the confluence of the first two, hostage (of) the Other.
