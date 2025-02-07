@@ -1,5 +1,6 @@
 ---
 title: "Theory of the Hostage: The Three Concepts of the Hostage"
+draft: true
 ---
 >[!info]+ 
 >« Théorie de l'otage, les trois concepts de l'otage »,
