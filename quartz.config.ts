@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "one-in.one",
-    generateSocialImages: true,
+    generateSocialImages: {colorScheme: "lightMode",  width: 1200, height: 630, excludeRoot: false}
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
