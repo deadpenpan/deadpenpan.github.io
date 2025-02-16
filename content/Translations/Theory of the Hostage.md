@@ -3,12 +3,14 @@ title: "Theory of the Hostage: The Three Concepts of the Hostage"
 draft: false
 ---
 >[!info]+ 
->« Théorie de l'otage, les trois concepts de l'otage »,
+>« Théorie de l'otage, les trois concepts de l'otage », in Exposé # n°1: Le propre des noms, 1994.
 >
 >auth. [[François Laruelle]], trans. [[Sylvia Nambiar|Sylvia]]
 
 >[!note]+ Sylvia's Note
 >[[Jeremy R. Smith|Jeremy]] found this text [[https://www.scribd.com/document/84373691/Theorie-de-l-otage-les-3-concepts-de-l-otage-par-Francois-Laruelle|online]] and, while it was uploaded on 7 March 2012 (with no other supplementary information provided), it seems to have been composed some time in the early to mid '80s.
+>
+>Many thanks to Artem Morozov for tracking down the collection it was published in.
 >
 >Although evidently written at the level of [[François Laruelle#Philosophie II|Philosophy II]], _Theory of the Hostage_ touches upon themes (with similar treatments even) found in later texts like [[Éthique de l’Étranger]], [[L'ultime honneur des intellectuels]], [[Philosophie non-standard. Générique, quantique, philo-fiction|Philosophie non-standard]], and [[Théorie générale des victimes]].
 >
