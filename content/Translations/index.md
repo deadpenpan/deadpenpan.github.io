@@ -12,6 +12,7 @@ cssclasses:
 - [[Review -  Une Incertaine réalité]]
 - [[The Vicinities of the Non-Philosophical Program]]
 - [[The Body (of) the Stranger as Subjective Body in-last-instance and Organon of the Ego]]
+- [[Theory of the Hostage]]
 
 # [[Anne-Françoise Schmid]]
 
