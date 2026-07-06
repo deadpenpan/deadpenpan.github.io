@@ -84,8 +84,6 @@ plugins:
     enabled: true
     options:
       useThemeFonts: true
-      fontOrigin: 'googleFonts'
-      header: Faustina
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -240,7 +238,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: abecedairium
+      theme: abecedarium
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
