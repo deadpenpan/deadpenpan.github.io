@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Faustina
+      header: Faustina Bold 700
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
