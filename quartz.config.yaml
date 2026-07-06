@@ -82,8 +82,6 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
-    options:
-      useThemeFonts: true
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -238,7 +236,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: abecedarium
+      theme: "aaaa"
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
