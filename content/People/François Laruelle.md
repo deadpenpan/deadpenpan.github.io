@@ -2,6 +2,7 @@
 aliases:
   - Laruelle
 ---
+#Person 
 # Works
 
 Partially adapted from bibliographies in _La Philosophie non-standard de François Laruelle_ (ed. [[Anne-Françoise Schmid|Anne-Françoise]], Maryse Dennes & John Ó Maiolearca) and _Alien Theory: The Decline of Materialism in the Name of Matter_ (auth. [[Ray Brassier]]).
