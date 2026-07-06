@@ -1,0 +1,5 @@
+---
+title: Notes
+aliases:
+  - Notes
+---
