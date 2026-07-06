@@ -45,19 +45,14 @@ jobs:
             ${{ runner.os }}-plugins-
 
       - run: npm ci
-
       - name: Install Quartz plugins
         run: npx quartz plugin install
-
       - name: Check types and style
         run: npm run check
-
       - name: Fetch Quartz Theme
 	run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s --$THEME_NAME
-
       - name: Build Quartz
         run: npx quartz build -d docs -v
-
       - name: Deploy to Cloudflare Pages
         uses: AdrianGonz97/refined-cf-pages-action@v1
         with:
