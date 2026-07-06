@@ -83,12 +83,9 @@ plugins:
   - source: github:quartz-community/fonts
     enabled: true
     options:
-	fontOrigin: googleFonts
-	body: Inter
-	header:
-		name: '"Faustina", bold'
-		weights: [700]
-	code: JetBrains Mono
+      useThemeFonts: true
+      fontOrigin: 'googleFonts'
+      header: Faustina
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -243,7 +240,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: abecedaire
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
