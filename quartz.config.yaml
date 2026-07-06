@@ -107,7 +107,9 @@ plugins:
     options:
 	fontOrigin: googleFonts
 	body: Inter
-	header: Faustina Bold 700
+	header:
+		name: '"Faustina", bold'
+		weights: [700]
 	code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
