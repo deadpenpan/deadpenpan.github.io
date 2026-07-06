@@ -13,12 +13,6 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
-    typography:
-      header: Faustina Bold 700
-      body: Source Sans Pro
-      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"

@@ -13,12 +13,6 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
-    typography:
-      header: Faustina Bold 700
-      body: Source Sans Pro
-      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -100,6 +94,11 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+	fontOrigin: googleFonts
+	body: Inter
+	header: Faustina Bold 700
+	code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
