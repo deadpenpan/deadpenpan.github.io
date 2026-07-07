@@ -3,7 +3,7 @@ aliases:
   - Anne-Françoise
 ---
 >[!note]
->Adapted from the bibliography featured in _L’aventure épistémologique contemporaine. Rencontres autour des travaux d’Anne-Françoise Schmid_.
+>Adapted from the bibliography featured in _L’aventure épistémologique contemporaine. Rencontres autour des travaux d’Anne-Françoise Schmid_ and a more recently updated curriculum vitae.
 # Works
 
 - _Une philosophie de savant: Henri Poincaré et la logique mathématique_, Paris: François Maspero, 1978; Paris: L'Harmattan: 2001.
@@ -198,13 +198,13 @@ aliases:
 
 -       Avec Alice Lucy Rekab, « Art and Philosophy: new Solidarities”, In: Steven Sghakespeare, Niamh Malone and Gary Anderson eds., _Art Desarming Philosophy, Non-Philosophy and Aesthetics_, Rowman and Littlefild, Series: “Performance Philosophy” 2021.
 
--       « Postface » à l’ouvrage de Betti sur Florenski : « La Polyphonie de Florenski pour l’épistémologie contemporaine », in : Renato Betti, Les Mathématiques comme habitude de pensée. Les idées scientifiques de Pavel Florenski, traduction et avant-propos de Laurent Mazliak, Besançon, Presses Universitaires de Franche-Comté, nobembre 2022, p. 165-167.
+- « Postface » à l’ouvrage de Betti sur Florenski : « La Polyphonie de Florenski pour l’épistémologie contemporaine », in : Renato Betti, Les Mathématiques comme habitude de pensée. Les idées scientifiques de Pavel Florenski, traduction et avant-propos de Laurent Mazliak, Besançon, Presses Universitaires de Franche-Comté, nobembre 2022, p. 165-167.
 
--       « The Place and value of Logic in Louis Couturat’s Philosophical Thinking”, in: Jean-Yves Béziau, Jean-Pierre Desclés, Amirouche Moktefi, Anca Christine Pascu eds, Logic in Question. Talks from the Annual Sorbonne Logic Workshop (2011-2019), Birkhaüser Springer Nature, 2022, p. 231- 244.
+-  « The Place and value of Logic in Louis Couturat’s Philosophical Thinking”, in: Jean-Yves Béziau, Jean-Pierre Desclés, Amirouche Moktefi, Anca Christine Pascu eds, Logic in Question. Talks from the Annual Sorbonne Logic Workshop (2011-2019), Birkhaüser Springer Nature, 2022, p. 231- 244.
 
--       “Ein höschst intimes Oeuvre, offen für kollektives Denken und Handlen/ A Highly Intimate Oeuvre, Open to Collective Thinking and Action”, in: Alice Lucy Rekab, Münich, Villa Stuck, 2023, p. 73-82.
+- “Ein höschst intimes Oeuvre, offen für kollektives Denken und Handlen/ A Highly Intimate Oeuvre, Open to Collective Thinking and Action”, in: Alice Lucy Rekab, Münich, Villa Stuck, 2023, p. 73-82.
 
--       “Préface” à _Architecture et sciences du vivant. Etudes critiques_, par Louis Vitalis et Natasha Heil-Chayaamor, Paris, Hermann, 2023.
+- “Préface” à _Architecture et sciences du vivant. Etudes critiques_, par Louis Vitalis et Natasha Heil-Chayaamor, Paris, Hermann, 2023.
 
 
 # Edited by [[Anne-Françoise Schmid|Anne-Françoise]]

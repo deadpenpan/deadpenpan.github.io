@@ -16,16 +16,17 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Crimson Pro
-      body: Fira Sans
+      title: Bodoni Moda
+      header: Literata
+      body: Figtree
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#f5f3fa"
+        light: "#ffffff"
         lightgray: "#b8b6bc"
         gray: "#8a898d"
         darkgray: "#5c566b"
-        dark: "#160e2b"
+        dark: "#000000"
         secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
@@ -247,7 +248,6 @@ plugins:
       includeAll: false
       includedProperties:
         - description
-        - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

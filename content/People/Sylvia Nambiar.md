@@ -12,7 +12,7 @@ aliases:
   - my
   - My
 ---
-#Person 
+
 >[!info]+ Contact
 >
 >You can reach out to [[Sylvia Nambiar|me]] by email at: transversalaf{at}proton{dot}me
