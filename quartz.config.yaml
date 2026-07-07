@@ -163,7 +163,6 @@ plugins:
     enabled: true
     options:
       showSubfolders: true
-      prefixFolders: true
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
@@ -199,7 +198,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
