@@ -87,7 +87,12 @@ plugins:
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
-      markdownLinkResolution: shortest
+      markdownLinkResolution: absolute
+      prettyLinks: true
+      openLinksInNewTab: false
+      lazyLoad: true
+      externalLinkIcon: true
+      disableBrokenWikilinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
