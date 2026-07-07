@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: deadpenpan.github.io/quartz
+  baseUrl: deadpenpan.github.io
   ignorePatterns:
     - private
     - templates
@@ -87,7 +87,7 @@ plugins:
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
-      markdownLinkResolution: relative
+      markdownLinkResolution: absolute
       prettyLinks: true
       openLinksInNewTab: false
       lazyLoad: true
