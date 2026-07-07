@@ -1,5 +1,6 @@
 ---
 title: "Shot: Collapsar"
+draft: true
 ---
 >[!info]
 >auth. [[Sylvia Nambiar|Sylvia]]
