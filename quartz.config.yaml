@@ -162,7 +162,6 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
     options:
-      showFolderCount: true
       showSubfolders: true
       prefixFolders: true
   - source: github:quartz-community/tag-page

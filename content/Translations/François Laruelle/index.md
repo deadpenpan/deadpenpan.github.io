@@ -1,0 +1,10 @@
+Translations of the works of [[François Laruelle]] by [[Sylvia Nambiar]]
+
+-  [[Introduction]]
+- [[Of the Black Universe in the Human Foundations of Color]]
+- [[Philosophy in front of Artificial Intelligence]]
+- [[Review - Müntzer contre Luther]]
+- [[Review -  Une Incertaine réalité]]
+- [[The Body (of) the Stranger as Subjective Body in-last-instance and Organon of the Ego]]
+- [[The Vicinities of the Non-Philosophical Program]]
+- [[Theory of the Hostage]]
