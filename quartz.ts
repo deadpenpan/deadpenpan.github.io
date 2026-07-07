@@ -3,8 +3,8 @@ import * as ExternalPlugin from "./.quartz/plugins"
 
 ExternalPlugin.Explorer({
   filterFn: (node) => {
-    const omit = new Set(["People", "Texts"])
-    return !omit.has(node.displayName.toLowerCase())
+    const omit = new Set(["People", "Texts", "Tag Index"])
+    return !omit.has(node.displayName)
   },
 })
 
