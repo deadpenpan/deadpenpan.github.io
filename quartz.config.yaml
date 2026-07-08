@@ -88,7 +88,7 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: absolute
-      prettyLinks: true
+      prettyLinks: false
       openLinksInNewTab: false
       lazyLoad: true
       externalLinkIcon: true
