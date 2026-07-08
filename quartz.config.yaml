@@ -115,7 +115,24 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: false
+    enabled: true
+    options:
+      fontOrigin: googleFonts
+      title:
+        name: Bodoni Moda
+        weights: [900]
+      h1:
+        name: Literata
+        weights: [900]
+      h2:
+        name: Literata
+        weights: [700]
+      body:
+        name: Figtree
+        weights: [500]
+      interface:
+        name: Aleo
+        weights: [300]
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
